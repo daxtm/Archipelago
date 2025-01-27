@@ -96,10 +96,6 @@ ITEM_GROUPS = {
         "HM04 Strength",
         "HM05 Flash",
         "HM06 Whirlpool",
-        "HM07 Waterfall"
-    },
-    "Gear": {
-        "Pokegear",
         "Radio Card",
         "EXPN Card",
         "Map Card"
