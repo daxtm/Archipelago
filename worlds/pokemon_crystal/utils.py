@@ -1,7 +1,4 @@
-
-                     
-                     
-                     from typing import TYPE_CHECKING
+from typing import TYPE_CHECKING
 from .data import data
 from .options import FreeFlyLocation
 
