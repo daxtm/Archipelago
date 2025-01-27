@@ -2,7 +2,7 @@
 	"AZALEA_TOWN_HIDDEN_FULL_HEAL": {
 		"label": "Azalea Town - Hidden Item By Well",
 		"flag": "EVENT_AZALEA_TOWN_HIDDEN_FULL_HEAL",
-		"default_item": "FULL_HEAL",
+		"default_item": "FULL_HEAL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "AzaleaTownHiddenFullHeal"
@@ -10,7 +10,7 @@
 	"BURNED_TOWER_1F_HIDDEN_ETHER": {
 		"label": "Burned Tower 1F - Hidden Item 1",
 		"flag": "EVENT_BURNED_TOWER_1F_HIDDEN_ETHER",
-		"default_item": "ETHER",
+		"default_item": "ETHER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "BurnedTower1FHiddenEther"
@@ -18,7 +18,7 @@
 	"BURNED_TOWER_1F_HIDDEN_ULTRA_BALL": {
 		"label": "Burned Tower 1F - Hidden Item 2",
 		"flag": "EVENT_BURNED_TOWER_1F_HIDDEN_ULTRA_BALL",
-		"default_item": "ULTRA_BALL",
+		"default_item": "ULTRA_BALL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "BurnedTower1FHiddenUltraBall"
@@ -29,7 +29,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "BurnedTower1FHPUp",
-		"default_item": "HP_UP"
+		"default_item": "HP_UP_PKMN_CRSTL"
 	},
 	"BURNED_TOWER_B1F_TM_ENDURE": {
 		"label": "Burned Tower B1F - Item",
@@ -37,12 +37,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "BurnedTowerB1FTMEndure",
-		"default_item": "TM_ENDURE"
+		"default_item": "TM_ENDURE_PKMN_CRSTL"
 	},
 	"CELADON_CITY_HIDDEN_PP_UP": {
 		"label": "Celadon City - Hidden Item At Dead End",
 		"flag": "EVENT_CELADON_CITY_HIDDEN_PP_UP",
-		"default_item": "PP_UP",
+		"default_item": "PP_UP_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "CeladonCityHiddenPpUp"
@@ -50,7 +50,7 @@
 	"CERULEAN_CITY_BERSERK_GENE": {
 		"label": "Cerulean City - Hidden Item in Water",
 		"flag": "EVENT_FOUND_BERSERK_GENE_IN_CERULEAN_CITY",
-		"default_item": "BERSERK_GENE",
+		"default_item": "BERSERK_GENE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "CeruleanCityHiddenBerserkGene"
@@ -58,7 +58,7 @@
 	"CERULEAN_GYM_MACHINE_PART": {
 		"label": "Cerulean Gym - Machine Part in Water",
 		"flag": "EVENT_FOUND_MACHINE_PART_IN_CERULEAN_GYM",
-		"default_item": "MACHINE_PART",
+		"default_item": "MACHINE_PART_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["KeyIyem"],
 		"script": "CeruleanGymHiddenMachinePart"
@@ -66,7 +66,7 @@
 	"CIANWOOD_CITY_HIDDEN_MAX_ETHER": {
 		"label": "Cianwood City - Hidden Item in West Rock",
 		"flag": "EVENT_CIANWOOD_CITY_HIDDEN_MAX_ETHER",
-		"default_item": "MAX_ETHER",
+		"default_item": "MAX_ETHER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "CianwoodCityHiddenMaxEther"
@@ -74,7 +74,7 @@
 	"CIANWOOD_CITY_HIDDEN_REVIVE": {
 		"label": "Cianwood City - Hidden Item in North Rock",
 		"flag": "EVENT_CIANWOOD_CITY_HIDDEN_REVIVE",
-		"default_item": "REVIVE",
+		"default_item": "REVIVE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "CianwoodCityHiddenRevive"
@@ -82,7 +82,7 @@
 	"CINNABAR_ISLAND_HIDDEN_RARE_CANDY": {
 		"label": "Cinnabar Island - Hidden Item in North",
 		"flag": "EVENT_CINNABAR_ISLAND_HIDDEN_RARE_CANDY",
-		"default_item": "RARE_CANDY",
+		"default_item": "RARE_CANDY_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "CinnabarIslandHiddenRareCandy"
@@ -93,7 +93,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "DarkCaveBlackthornEntranceRevive",
-		"default_item": "REVIVE"
+		"default_item": "REVIVE_PKMN_CRSTL"
 	},
 	"DARK_CAVE_BLACKTHORN_ENTRANCE_TM_SNORE": {
 		"label": "Dark Cave Blackthorn Entrance - Item 2",
@@ -101,7 +101,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "DarkCaveBlackthornEntranceTMSnore",
-		"default_item": "TM_SNORE"
+		"default_item": "TM_SNORE_PKMN_CRSTL"
 	},
 	"DARK_CAVE_VIOLET_ENTRANCE_DIRE_HIT": {
 		"label": "Dark Cave Violet Entrance - Item 1",
@@ -109,7 +109,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "DarkCaveVioletEntranceDireHit",
-		"default_item": "DIRE_HIT"
+		"default_item": "DIRE_HIT_PKMN_CRSTL"
 	},
 	"DARK_CAVE_VIOLET_ENTRANCE_FULL_HEAL": {
 		"label": "Dark Cave Violet Entrance - Item 2",
@@ -117,12 +117,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "DarkCaveVioletEntranceFullHeal",
-		"default_item": "FULL_HEAL"
+		"default_item": "FULL_HEAL_PKMN_CRSTL"
 	},
 	"DARK_CAVE_VIOLET_ENTRANCE_HIDDEN_ELIXER": {
 		"label": "Dark Cave Violet Entrance - Hidden Item in North",
 		"flag": "EVENT_DARK_CAVE_VIOLET_ENTRANCE_HIDDEN_ELIXER",
-		"default_item": "ELIXER",
+		"default_item": "ELIXER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "DarkCaveVioletEntranceHiddenElixer"
@@ -133,7 +133,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "DarkCaveVioletEntranceHyperPotion",
-		"default_item": "HYPER_POTION"
+		"default_item": "HYPER_POTION_PKMN_CRSTL"
 	},
 	"DARK_CAVE_VIOLET_ENTRANCE_POTION": {
 		"label": "Dark Cave Violet Entrance - Item 4",
@@ -141,12 +141,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "DarkCaveVioletEntrancePotion",
-		"default_item": "POTION"
+		"default_item": "POTION_PKMN_CRSTL"
 	},
 	"DIGLETTS_CAVE_HIDDEN_MAX_REVIVE": {
 		"label": "Diglett's Cave - Hidden Item on Boulder",
 		"flag": "EVENT_DIGLETTS_CAVE_HIDDEN_MAX_REVIVE",
-		"default_item": "MAX_REVIVE",
+		"default_item": "MAX_REVIVE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "DiglettsCaveHiddenMaxRevive"
@@ -157,7 +157,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "DragonsDenB1FCalcium",
-		"default_item": "CALCIUM"
+		"default_item": "CALCIUM_PKMN_CRSTL"
 	},
 	"DRAGONS_DEN_B1F_DRAGON_FANG": {
 		"label": "Dragon's Den B1F - Item 2",
@@ -165,12 +165,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "DragonsDenB1FDragonFang",
-		"default_item": "DRAGON_FANG"
+		"default_item": "DRAGON_FANG_PKMN_CRSTL"
 	},
 	"DRAGONS_DEN_B1F_HIDDEN_MAX_ELIXER": {
 		"label": "Dragon's Den B1F - Hidden Item in Water 1",
 		"flag": "EVENT_DRAGONS_DEN_B1F_HIDDEN_MAX_ELIXER",
-		"default_item": "MAX_ELIXER",
+		"default_item": "MAX_ELIXER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "DragonsDenB1FHiddenMaxElixer"
@@ -178,7 +178,7 @@
 	"DRAGONS_DEN_B1F_HIDDEN_MAX_POTION": {
 		"label": "Dragon's Den B1F - Hidden Item in Water 2",
 		"flag": "EVENT_DRAGONS_DEN_B1F_HIDDEN_MAX_POTION",
-		"default_item": "MAX_POTION",
+		"default_item": "MAX_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "DragonsDenB1FHiddenMaxPotion"
@@ -186,7 +186,7 @@
 	"DRAGONS_DEN_B1F_HIDDEN_REVIVE": {
 		"label": "Dragon's Den B1F - Hidden Item in SE Corner",
 		"flag": "EVENT_DRAGONS_DEN_B1F_HIDDEN_REVIVE",
-		"default_item": "REVIVE",
+		"default_item": "REVIVE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "DragonsDenB1FHiddenRevive"
@@ -197,12 +197,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "DragonsDenB1FMaxElixer",
-		"default_item": "MAX_ELIXER"
+		"default_item": "MAX_ELIXER_PKMN_CRSTL"
 	},
 	"ECRUTEAK_CITY_HIDDEN_HYPER_POTION": {
 		"label": "Ecruteak City - Hidden Item by Pond",
 		"flag": "EVENT_ECRUTEAK_CITY_HIDDEN_HYPER_POTION",
-		"default_item": "HYPER_POTION",
+		"default_item": "HYPER_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "EcruteakCityHiddenHyperPotion"
@@ -213,7 +213,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "FightingDojoFocusBand",
-		"default_item": "FOCUS_BAND"
+		"default_item": "FOCUS_BAND_PKMN_CRSTL"
 	},
 	"GOLDENROD_DEPT_STORE_B1F_AMULET_COIN": {
 		"label": "Goldenrod Dept. Store B1F - Item Behind Card Key Door",
@@ -221,7 +221,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "GoldenrodDeptStoreB1FAmuletCoin",
-		"default_item": "AMULET_COIN"
+		"default_item": "AMULET_COIN_PKMN_CRSTL"
 	},
 	"GOLDENROD_DEPT_STORE_B1F_BURN_HEAL": {
 		"label": "Goldenrod Dept. Store B1F - Northwest Item",
@@ -229,7 +229,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "GoldenrodDeptStoreB1FBurnHeal",
-		"default_item": "BURN_HEAL"
+		"default_item": "BURN_HEAL_PKMN_CRSTL"
 	},
 	"GOLDENROD_DEPT_STORE_B1F_ETHER": {
 		"label": "Goldenrod Dept. Store B1F - South Item",
@@ -237,7 +237,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "GoldenrodDeptStoreB1FEther",
-		"default_item": "ETHER"
+		"default_item": "ETHER_PKMN_CRSTL"
 	},
 	"GOLDENROD_DEPT_STORE_B1F_ULTRA_BALL": {
 		"label": "Goldenrod Dept. Store B1F - Southeast Item",
@@ -245,7 +245,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "GoldenrodDeptStoreB1FUltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES_FULL_HEAL": {
 		"label": "Goldenrod UG B2F - Item 1",
@@ -253,12 +253,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "GoldenrodUndergroundSwitchRoomEntrancesFullHeal",
-		"default_item": "FULL_HEAL"
+		"default_item": "FULL_HEAL_PKMN_CRSTL"
 	},
 	"GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES_HIDDEN_MAX_POTION": {
 		"label": "Goldenrod UG B2F - Hidden Item 1",
 		"flag": "EVENT_GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES_HIDDEN_MAX_POTION",
-		"default_item": "MAX_POTION",
+		"default_item": "MAX_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "GoldenrodUndergroundSwitchRoomEntrancesHiddenMaxPotion"
@@ -266,7 +266,7 @@
 	"GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES_HIDDEN_REVIVE": {
 		"label": "Goldenrod UG B2F - Hidden Item 2",
 		"flag": "EVENT_GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES_HIDDEN_REVIVE",
-		"default_item": "REVIVE",
+		"default_item": "REVIVE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "GoldenrodUndergroundSwitchRoomEntrancesHiddenRevive"
@@ -277,7 +277,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "GoldenrodUndergroundSwitchRoomEntrancesSmokeBall",
-		"default_item": "SMOKE_BALL"
+		"default_item": "SMOKE_BALL_PKMN_CRSTL"
 	},
 	"GOLDENROD_UNDERGROUND_WAREHOUSE_MAX_ETHER": {
 		"label": "Goldenrod UG Warehouse - Item 1",
@@ -285,7 +285,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "GoldenrodUndergroundWarehouseMaxEther",
-		"default_item": "MAX_ETHER"
+		"default_item": "MAX_ETHER_PKMN_CRSTL"
 	},
 	"GOLDENROD_UNDERGROUND_WAREHOUSE_TM_SLEEP_TALK": {
 		"label": "Goldenrod UG Warehouse - Item 2",
@@ -293,7 +293,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "GoldenrodUndergroundWarehouseTMSleepTalk",
-		"default_item": "TM_SLEEP_TALK"
+		"default_item": "TM_SLEEP_TALK_PKMN_CRSTL"
 	},
 	"GOLDENROD_UNDERGROUND_WAREHOUSE_ULTRA_BALL": {
 		"label": "Goldenrod UG Warehouse - Item 3",
@@ -301,7 +301,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "GoldenrodUndergroundWarehouseUltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"GOLDENROD_UNDERGROUND_COIN_CASE": {
 		"label": "Goldenrod UG - Item 1",
@@ -309,12 +309,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "GoldenrodUndergroundCoinCase",
-		"default_item": "COIN_CASE"
+		"default_item": "COIN_CASE_PKMN_CRSTL"
 	},
 	"GOLDENROD_UNDERGROUND_HIDDEN_ANTIDOTE": {
 		"label": "Goldenrod UG - Hidden Item by Blue Door",
 		"flag": "EVENT_GOLDENROD_UNDERGROUND_HIDDEN_ANTIDOTE",
-		"default_item": "ANTIDOTE",
+		"default_item": "ANTIDOTE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "GoldenrodUndergroundHiddenAntidote"
@@ -322,7 +322,7 @@
 	"GOLDENROD_UNDERGROUND_HIDDEN_PARLYZ_HEAL": {
 		"label": "Goldenrod UG - Hidden Item Between Tables",
 		"flag": "EVENT_GOLDENROD_UNDERGROUND_HIDDEN_PARLYZ_HEAL",
-		"default_item": "PARLYZ_HEAL",
+		"default_item": "PARLYZ_HEAL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "GoldenrodUndergroundHiddenParlyzHeal"
@@ -330,7 +330,7 @@
 	"GOLDENROD_UNDERGROUND_HIDDEN_SUPER_POTION": {
 		"label": "Goldenrod UG - Hidden Item in Center",
 		"flag": "EVENT_GOLDENROD_UNDERGROUND_HIDDEN_SUPER_POTION",
-		"default_item": "SUPER_POTION",
+		"default_item": "SUPER_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "GoldenrodUndergroundHiddenSuperPotion"
@@ -341,7 +341,7 @@
 		"type": "itemball",
 		"tags": ["HM"],
 		"script": "IcePath1FHMWaterfall",
-		"default_item": "HM_WATERFALL"
+		"default_item": "HM_WATERFALL_PKMN_CRSTL"
 	},
 	"ICE_PATH_1F_PP_UP": {
 		"label": "Ice Path 1F - Item 1",
@@ -349,7 +349,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "IcePath1FPPUp",
-		"default_item": "PP_UP"
+		"default_item": "PP_UP_PKMN_CRSTL"
 	},
 	"ICE_PATH_1F_PROTEIN": {
 		"label": "Ice Path 1F - Item 2",
@@ -357,12 +357,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "IcePath1FProtein",
-		"default_item": "PROTEIN"
+		"default_item": "PROTEIN_PKMN_CRSTL"
 	},
 	"ICE_PATH_B1F_HIDDEN_MAX_POTION": {
 		"label": "Ice Path B1F - Hidden Item on Boulder",
 		"flag": "EVENT_ICE_PATH_B1F_HIDDEN_MAX_POTION",
-		"default_item": "MAX_POTION",
+		"default_item": "MAX_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "IcePathB1FHiddenMaxPotion"
@@ -373,12 +373,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "IcePathB1FIron",
-		"default_item": "IRON"
+		"default_item": "IRON_PKMN_CRSTL"
 	},
 	"ICE_PATH_B2F_BLACKTHORN_SIDE_HIDDEN_ICE_HEAL": {
 		"label": "Ice Path B2F - Hidden Item on Boulder",
 		"flag": "EVENT_ICE_PATH_B2F_BLACKTHORN_SIDE_HIDDEN_ICE_HEAL",
-		"default_item": "ICE_HEAL",
+		"default_item": "ICE_HEAL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "IcePathB2FBlackthornSideHiddenIceHeal"
@@ -389,7 +389,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "IcePathB2FBlackthornSideTMRest",
-		"default_item": "TM_REST"
+		"default_item": "TM_REST_PKMN_CRSTL"
 	},
 	"ICE_PATH_B2F_MAHOGANY_SIDE_FULL_HEAL": {
 		"label": "Ice Path B2F - Item 2",
@@ -397,12 +397,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "IcePathB2FMahoganySideFullHeal",
-		"default_item": "FULL_HEAL"
+		"default_item": "FULL_HEAL_PKMN_CRSTL"
 	},
 	"ICE_PATH_B2F_MAHOGANY_SIDE_HIDDEN_CARBOS": {
 		"label": "Ice Path B2F - Hidden Item in Corner",
 		"flag": "EVENT_ICE_PATH_B2F_MAHOGANY_SIDE_HIDDEN_CARBOS",
-		"default_item": "CARBOS",
+		"default_item": "CARBOS_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "IcePathB2FMahoganySideHiddenCarbos"
@@ -413,7 +413,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "IcePathB2FMahoganySideMaxPotion",
-		"default_item": "MAX_POTION"
+		"default_item": "MAX_POTION_PKMN_CRSTL"
 	},
 	"ICE_PATH_B3F_NEVERMELTICE": {
 		"label": "Ice Path B3F - Item",
@@ -421,7 +421,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "IcePathB3FNevermeltice",
-		"default_item": "NEVERMELTICE"
+		"default_item": "NEVERMELTICE_PKMN_CRSTL"
 	},
 	"ILEX_FOREST_ANTIDOTE": {
 		"label": "Ilex Forest - Item 1",
@@ -429,7 +429,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "IlexForestAntidote",
-		"default_item": "ANTIDOTE"
+		"default_item": "ANTIDOTE_PKMN_CRSTL"
 	},
 	"ILEX_FOREST_ETHER": {
 		"label": "Ilex Forest - Item 2",
@@ -437,12 +437,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "IlexForestEther",
-		"default_item": "ETHER"
+		"default_item": "ETHER_PKMN_CRSTL"
 	},
 	"ILEX_FOREST_HIDDEN_ETHER": {
 		"label": "Ilex Forest - Hidden Item 1",
 		"flag": "EVENT_ILEX_FOREST_HIDDEN_ETHER",
-		"default_item": "ETHER",
+		"default_item": "ETHER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "IlexForestHiddenEther"
@@ -450,7 +450,7 @@
 	"ILEX_FOREST_HIDDEN_FULL_HEAL": {
 		"label": "Ilex Forest - Hidden Item 2",
 		"flag": "EVENT_ILEX_FOREST_HIDDEN_FULL_HEAL",
-		"default_item": "FULL_HEAL",
+		"default_item": "FULL_HEAL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "IlexForestHiddenFullHeal"
@@ -458,7 +458,7 @@
 	"ILEX_FOREST_HIDDEN_SUPER_POTION": {
 		"label": "Ilex Forest - Hidden Item 3",
 		"flag": "EVENT_ILEX_FOREST_HIDDEN_SUPER_POTION",
-		"default_item": "SUPER_POTION",
+		"default_item": "SUPER_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "IlexForestHiddenSuperPotion"
@@ -469,7 +469,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "IlexForestRevive",
-		"default_item": "REVIVE"
+		"default_item": "REVIVE_PKMN_CRSTL"
 	},
 	"ILEX_FOREST_X_ATTACK": {
 		"label": "Ilex Forest - Item 4",
@@ -477,7 +477,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "IlexForestXAttack",
-		"default_item": "X_ATTACK"
+		"default_item": "X_ATTACK_PKMN_CRSTL"
 	},
 	"LAKE_OF_RAGE_ELIXER": {
 		"label": "Lake of Rage - Item 1",
@@ -485,12 +485,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "LakeOfRageElixer",
-		"default_item": "ELIXER"
+		"default_item": "ELIXER_PKMN_CRSTL"
 	},
 	"LAKE_OF_RAGE_HIDDEN_FULL_RESTORE": {
 		"label": "Lake of Rage - Hidden Item in West Path",
 		"flag": "EVENT_LAKE_OF_RAGE_HIDDEN_FULL_RESTORE",
-		"default_item": "FULL_RESTORE",
+		"default_item": "FULL_RESTORE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "LakeOfRageHiddenFullRestore"
@@ -498,7 +498,7 @@
 	"LAKE_OF_RAGE_HIDDEN_MAX_POTION": {
 		"label": "Lake of Rage - Hidden Item in Northeast",
 		"flag": "EVENT_LAKE_OF_RAGE_HIDDEN_MAX_POTION",
-		"default_item": "MAX_POTION",
+		"default_item": "MAX_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "LakeOfRageHiddenMaxPotion"
@@ -506,7 +506,7 @@
 	"LAKE_OF_RAGE_HIDDEN_RARE_CANDY": {
 		"label": "Lake of Rage - Hidden Item Behind Cut Tree",
 		"flag": "EVENT_LAKE_OF_RAGE_HIDDEN_RARE_CANDY",
-		"default_item": "RARE_CANDY",
+		"default_item": "RARE_CANDY_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "LakeOfRageHiddenRareCandy"
@@ -517,12 +517,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "LakeOfRageTMDetect",
-		"default_item": "TM_DETECT"
+		"default_item": "TM_DETECT_PKMN_CRSTL"
 	},
 	"MOUNT_MOON_SQUARE_HIDDEN_MOON_STONE": {
 		"label": "Mount Moon Square - Hidden Item on Monday Night",
 		"flag": "EVENT_MOUNT_MOON_SQUARE_HIDDEN_MOON_STONE",
-		"default_item": "MOON_STONE",
+		"default_item": "MOON_STONE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "MountMoonSquareHiddenMoonStone"
@@ -533,7 +533,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar1FInsideEscapeRope",
-		"default_item": "ESCAPE_ROPE"
+		"default_item": "ESCAPE_ROPE_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_1F_INSIDE_HYPER_POTION": {
 		"label": "Mount Mortar 1F Inside - Item 2",
@@ -541,7 +541,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar1FInsideHyperPotion",
-		"default_item": "HYPER_POTION"
+		"default_item": "HYPER_POTION_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_1F_INSIDE_IRON": {
 		"label": "Mount Mortar 1F Inside - Item 3",
@@ -549,7 +549,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar1FInsideIron",
-		"default_item": "IRON"
+		"default_item": "IRON_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_1F_INSIDE_MAX_POTION": {
 		"label": "Mount Mortar 1F Inside - Item 4",
@@ -557,7 +557,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar1FInsideMaxPotion",
-		"default_item": "MAX_POTION"
+		"default_item": "MAX_POTION_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_1F_INSIDE_MAX_REVIVE": {
 		"label": "Mount Mortar 1F Inside - Item 5",
@@ -565,7 +565,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar1FInsideMaxRevive",
-		"default_item": "MAX_REVIVE"
+		"default_item": "MAX_REVIVE_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_1F_INSIDE_NUGGET": {
 		"label": "Mount Mortar 1F Inside - Item 6",
@@ -573,7 +573,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar1FInsideNugget",
-		"default_item": "NUGGET"
+		"default_item": "NUGGET_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_1F_INSIDE_ULTRA_BALL": {
 		"label": "Mount Mortar 1F Inside - Item 7",
@@ -581,7 +581,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar1FInsideUltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_1F_OUTSIDE_ETHER": {
 		"label": "Mount Mortar 1F Outside - Item Up West Ladder",
@@ -589,7 +589,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar1FOutsideEther",
-		"default_item": "ETHER"
+		"default_item": "ETHER_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_1F_OUTSIDE_REVIVE": {
 		"label": "Mount Mortar 1F Outside - Item Up East Ladder",
@@ -597,7 +597,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar1FOutsideRevive",
-		"default_item": "REVIVE"
+		"default_item": "REVIVE_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_2F_INSIDE_DRAGON_SCALE": {
 		"label": "Mount Mortar 2F - Item 1",
@@ -605,7 +605,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar2FInsideDragonScale",
-		"default_item": "DRAGON_SCALE"
+		"default_item": "DRAGON_SCALE_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_2F_INSIDE_ELIXER": {
 		"label": "Mount Mortar 2F - Item 2",
@@ -613,7 +613,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar2FInsideElixer",
-		"default_item": "ELIXER"
+		"default_item": "ELIXER_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_2F_INSIDE_ESCAPE_ROPE": {
 		"label": "Mount Mortar 2F - Item 3",
@@ -621,7 +621,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar2FInsideEscapeRope",
-		"default_item": "ESCAPE_ROPE"
+		"default_item": "ESCAPE_ROPE_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_2F_INSIDE_MAX_POTION": {
 		"label": "Mount Mortar 2F - Item 4",
@@ -629,7 +629,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar2FInsideMaxPotion",
-		"default_item": "MAX_POTION"
+		"default_item": "MAX_POTION_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_2F_INSIDE_RARE_CANDY": {
 		"label": "Mount Mortar 2F - Item 5",
@@ -637,7 +637,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar2FInsideRareCandy",
-		"default_item": "RARE_CANDY"
+		"default_item": "RARE_CANDY_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_2F_INSIDE_TM_DEFENSE_CURL": {
 		"label": "Mount Mortar 2F - Item 6",
@@ -645,7 +645,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortar2FInsideTMDefenseCurl",
-		"default_item": "TM_DEFENSE_CURL"
+		"default_item": "TM_DEFENSE_CURL_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_B1F_CARBOS": {
 		"label": "Mount Mortar B1F - Item 1",
@@ -653,7 +653,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortarB1FCarbos",
-		"default_item": "CARBOS"
+		"default_item": "CARBOS_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_B1F_FULL_RESTORE": {
 		"label": "Mount Mortar B1F - Item 2",
@@ -661,12 +661,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortarB1FFullRestore",
-		"default_item": "FULL_RESTORE"
+		"default_item": "FULL_RESTORE_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_B1F_HIDDEN_MAX_REVIVE": {
 		"label": "Mount Mortar B1F - Hidden Item on Boulder",
 		"flag": "EVENT_MOUNT_MORTAR_B1F_HIDDEN_MAX_REVIVE",
-		"default_item": "MAX_REVIVE",
+		"default_item": "MAX_REVIVE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "MountMortarB1FHiddenMaxRevive"
@@ -677,7 +677,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortarB1FHyperPotion",
-		"default_item": "HYPER_POTION"
+		"default_item": "HYPER_POTION_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_B1F_MAX_ETHER": {
 		"label": "Mount Mortar B1F - Item 4",
@@ -685,7 +685,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortarB1FMaxEther",
-		"default_item": "MAX_ETHER"
+		"default_item": "MAX_ETHER_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_B1F_PP_UP": {
 		"label": "Mount Mortar B1F - Item 5",
@@ -693,12 +693,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "MountMortarB1FPPUp",
-		"default_item": "PP_UP"
+		"default_item": "PP_UP_PKMN_CRSTL"
 	},
 	"MOUNT_MORTAR_1F_INSIDE_HIDDEN_MAX_REPEL": {
 		"label": "Mount Mortar 1F Inside - Hidden Item",
 		"flag": "EVENT_MOUNT_MORTAR_1F_INSIDE_HIDDEN_MAX_REPEL",
-		"default_item": "MAX_REPEL",
+		"default_item": "MAX_REPEL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "MountMortar1FInsideHiddenMaxRepel"
@@ -706,7 +706,7 @@
 	"MOUNT_MORTAR_1F_OUTSIDE_HIDDEN_HYPER_POTION": {
 		"label": "Mount Mortar 1F Outside - Hidden Item",
 		"flag": "EVENT_MOUNT_MORTAR_1F_OUTSIDE_HIDDEN_HYPER_POTION",
-		"default_item": "HYPER_POTION",
+		"default_item": "HYPER_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "MountMortar1FOutsideHiddenHyperPotion"
@@ -714,7 +714,7 @@
 	"MOUNT_MORTAR_2F_INSIDE_HIDDEN_FULL_RESTORE": {
 		"label": "Mount Mortar 2F - Hidden Item",
 		"flag": "EVENT_MOUNT_MORTAR_2F_INSIDE_HIDDEN_FULL_RESTORE",
-		"default_item": "FULL_RESTORE",
+		"default_item": "FULL_RESTORE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "MountMortar2FInsideHiddenFullRestore"
@@ -722,7 +722,7 @@
 	"NATIONAL_PARK_HIDDEN_FULL_HEAL": {
 		"label": "National Park - Hidden Item Behind Fence",
 		"flag": "EVENT_NATIONAL_PARK_HIDDEN_FULL_HEAL",
-		"default_item": "FULL_HEAL",
+		"default_item": "FULL_HEAL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "NationalParkHiddenFullHeal"
@@ -733,7 +733,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "NationalParkParlyzHeal",
-		"default_item": "PARLYZ_HEAL"
+		"default_item": "PARLYZ_HEAL_PKMN_CRSTL"
 	},
 	"NATIONAL_PARK_TM_DIG": {
 		"label": "National Park - Item 2",
@@ -741,7 +741,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "NationalParkTMDig",
-		"default_item": "TM_DIG"
+		"default_item": "TM_DIG_PKMN_CRSTL"
 	},
 	"OLIVINE_LIGHTHOUSE_3F_ETHER": {
 		"label": "Olivine Lighthouse 3F - Item",
@@ -749,7 +749,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "OlivineLighthouse3FEther",
-		"default_item": "ETHER"
+		"default_item": "ETHER_PKMN_CRSTL"
 	},
 	"OLIVINE_LIGHTHOUSE_5F_RARE_CANDY": {
 		"label": "Olivine Lighthouse 5F - Item 1",
@@ -757,7 +757,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "OlivineLighthouse5FRareCandy",
-		"default_item": "RARE_CANDY"
+		"default_item": "RARE_CANDY_PKMN_CRSTL"
 	},
 	"OLIVINE_LIGHTHOUSE_5F_SUPER_REPEL": {
 		"label": "Olivine Lighthouse 5F - Item 2",
@@ -765,7 +765,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "OlivineLighthouse5FSuperRepel",
-		"default_item": "SUPER_REPEL"
+		"default_item": "SUPER_REPEL_PKMN_CRSTL"
 	},
 	"OLIVINE_LIGHTHOUSE_5F_TM_SWAGGER": {
 		"label": "Olivine Lighthouse 5F - Item 3",
@@ -773,7 +773,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "OlivineLighthouse5FTMSwagger",
-		"default_item": "TM_SWAGGER"
+		"default_item": "TM_SWAGGER_PKMN_CRSTL"
 	},
 	"OLIVINE_LIGHTHOUSE_6F_SUPER_POTION": {
 		"label": "Olivine Lighthouse 6F - Item",
@@ -781,12 +781,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "OlivineLighthouse6FSuperPotion",
-		"default_item": "SUPER_POTION"
+		"default_item": "SUPER_POTION_PKMN_CRSTL"
 	},
 	"OLIVINE_LIGHTHOUSE_5F_HIDDEN_HYPER_POTION": {
 		"label": "Olivine Lighthouse 5F - Hidden Item",
 		"flag": "EVENT_OLIVINE_LIGHTHOUSE_5F_HIDDEN_HYPER_POTION",
-		"default_item": "HYPER_POTION",
+		"default_item": "HYPER_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "OlivineLighthouse5FHiddenHyperPotion"
@@ -794,7 +794,7 @@
 	"OLIVINE_PORT_HIDDEN_PROTEIN": {
 		"label": "Olivine Port - Hidden Item in Southwest Buoy",
 		"flag": "EVENT_OLIVINE_PORT_HIDDEN_PROTEIN",
-		"default_item": "PROTEIN",
+		"default_item": "PROTEIN_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "OlivinePortHiddenProtein"
@@ -805,7 +805,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RadioTower5FUltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"ROCK_TUNNEL_1F_ELIXER": {
 		"label": "Rock Tunnel 1F - Item 1",
@@ -813,12 +813,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RockTunnel1FElixer",
-		"default_item": "ELIXER"
+		"default_item": "ELIXER_PKMN_CRSTL"
 	},
 	"ROCK_TUNNEL_1F_HIDDEN_X_ACCURACY": {
 		"label": "Rock Tunnel 1F - Hidden Item 1",
 		"flag": "EVENT_ROCK_TUNNEL_1F_HIDDEN_X_ACCURACY",
-		"default_item": "X_ACCURACY",
+		"default_item": "X_ACCURACY_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "RockTunnel1FHiddenXAccuracy"
@@ -826,7 +826,7 @@
 	"ROCK_TUNNEL_1F_HIDDEN_X_DEFEND": {
 		"label": "Rock Tunnel 1F - Hidden Item 2",
 		"flag": "EVENT_ROCK_TUNNEL_1F_HIDDEN_X_DEFEND",
-		"default_item": "X_DEFEND",
+		"default_item": "X_DEFEND_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "RockTunnel1FHiddenXDefend"
@@ -837,12 +837,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RockTunnel1FTMSteelWing",
-		"default_item": "TM_STEEL_WING"
+		"default_item": "TM_STEEL_WING_PKMN_CRSTL"
 	},
 	"ROCK_TUNNEL_B1F_HIDDEN_MAX_POTION": {
 		"label": "Rock Tunnel B1F - Hidden Item",
 		"flag": "EVENT_ROCK_TUNNEL_B1F_HIDDEN_MAX_POTION",
-		"default_item": "MAX_POTION",
+		"default_item": "MAX_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "RockTunnelB1FHiddenMaxPotion"
@@ -853,7 +853,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RockTunnelB1FIron",
-		"default_item": "IRON"
+		"default_item": "IRON_PKMN_CRSTL"
 	},
 	"ROCK_TUNNEL_B1F_PP_UP": {
 		"label": "Rock Tunnel B1F - Item 2",
@@ -861,7 +861,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RockTunnelB1FPPUp",
-		"default_item": "PP_UP"
+		"default_item": "PP_UP_PKMN_CRSTL"
 	},
 	"ROCK_TUNNEL_B1F_REVIVE": {
 		"label": "Rock Tunnel B1F - Item 3",
@@ -869,12 +869,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RockTunnelB1FRevive",
-		"default_item": "REVIVE"
+		"default_item": "REVIVE_PKMN_CRSTL"
 	},
 	"ROUTE_11_HIDDEN_REVIVE": {
 		"label": "Route 11 - Hidden Item in Tree",
 		"flag": "EVENT_ROUTE_11_HIDDEN_REVIVE",
-		"default_item": "REVIVE",
+		"default_item": "REVIVE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route11HiddenRevive"
@@ -885,12 +885,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route12Calcium",
-		"default_item": "CALCIUM"
+		"default_item": "CALCIUM_PKMN_CRSTL"
 	},
 	"ROUTE_12_HIDDEN_ELIXER": {
 		"label": "Route 12 - Hidden Item on Island",
 		"flag": "EVENT_ROUTE_12_HIDDEN_ELIXER",
-		"default_item": "ELIXER",
+		"default_item": "ELIXER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route12HiddenElixer"
@@ -901,12 +901,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route12Nugget",
-		"default_item": "NUGGET"
+		"default_item": "NUGGET_PKMN_CRSTL"
 	},
 	"ROUTE_13_HIDDEN_CALCIUM": {
 		"label": "Route 13 - Hidden Item in Fence Maze",
 		"flag": "EVENT_ROUTE_13_HIDDEN_CALCIUM",
-		"default_item": "CALCIUM",
+		"default_item": "CALCIUM_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route13HiddenCalcium"
@@ -917,12 +917,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route15PPUp",
-		"default_item": "PP_UP"
+		"default_item": "PP_UP_PKMN_CRSTL"
 	},
 	"ROUTE_17_HIDDEN_MAX_ELIXER": {
 		"label": "Route 17 - Hidden Item in Fence",
 		"flag": "EVENT_ROUTE_17_HIDDEN_MAX_ELIXER",
-		"default_item": "MAX_ELIXER",
+		"default_item": "MAX_ELIXER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route17HiddenMaxElixer"
@@ -930,7 +930,7 @@
 	"ROUTE_17_HIDDEN_MAX_ETHER": {
 		"label": "Route 17 - Hidden Item at Corner",
 		"flag": "EVENT_ROUTE_17_HIDDEN_MAX_ETHER",
-		"default_item": "MAX_ETHER",
+		"default_item": "MAX_ETHER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route17HiddenMaxEther"
@@ -941,7 +941,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route2Carbos",
-		"default_item": "CARBOS"
+		"default_item": "CARBOS_PKMN_CRSTL"
 	},
 	"ROUTE_2_DIRE_HIT": {
 		"label": "Route 2 - Item 2",
@@ -949,7 +949,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route2DireHit",
-		"default_item": "DIRE_HIT"
+		"default_item": "DIRE_HIT_PKMN_CRSTL"
 	},
 	"ROUTE_2_ELIXER": {
 		"label": "Route 2 - Item 3",
@@ -957,12 +957,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route2Elixer",
-		"default_item": "ELIXER"
+		"default_item": "ELIXER_PKMN_CRSTL"
 	},
 	"ROUTE_2_HIDDEN_FULL_HEAL": {
 		"label": "Route 2 - Hidden Item 1",
 		"flag": "EVENT_ROUTE_2_HIDDEN_FULL_HEAL",
-		"default_item": "FULL_HEAL",
+		"default_item": "FULL_HEAL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route2HiddenFullHeal"
@@ -970,7 +970,7 @@
 	"ROUTE_2_HIDDEN_FULL_RESTORE": {
 		"label": "Route 2 - Hidden Item 2",
 		"flag": "EVENT_ROUTE_2_HIDDEN_FULL_RESTORE",
-		"default_item": "FULL_RESTORE",
+		"default_item": "FULL_RESTORE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route2HiddenFullRestore"
@@ -978,7 +978,7 @@
 	"ROUTE_2_HIDDEN_MAX_ETHER": {
 		"label": "Route 2 - Hidden Item 3",
 		"flag": "EVENT_ROUTE_2_HIDDEN_MAX_ETHER",
-		"default_item": "MAX_ETHER",
+		"default_item": "MAX_ETHER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route2HiddenMaxEther"
@@ -986,7 +986,7 @@
 	"ROUTE_2_HIDDEN_REVIVE": {
 		"label": "Route 2 - Hidden Item 4",
 		"flag": "EVENT_ROUTE_2_HIDDEN_REVIVE",
-		"default_item": "REVIVE",
+		"default_item": "REVIVE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route2HiddenRevive"
@@ -997,12 +997,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route2MaxPotion",
-		"default_item": "MAX_POTION"
+		"default_item": "MAX_POTION_PKMN_CRSTL"
 	},
 	"ROUTE_25_HIDDEN_POTION": {
 		"label": "Route 25 - Hidden Item in Tree",
 		"flag": "EVENT_ROUTE_25_HIDDEN_POTION",
-		"default_item": "POTION",
+		"default_item": "POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route25HiddenPotion"
@@ -1013,7 +1013,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route25Protein",
-		"default_item": "PROTEIN"
+		"default_item": "PROTEIN_PKMN_CRSTL"
 	},
 	"ROUTE_26_MAX_ELIXER": {
 		"label": "Route 26 - Item",
@@ -1021,7 +1021,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route26MaxElixer",
-		"default_item": "MAX_ELIXER"
+		"default_item": "MAX_ELIXER_PKMN_CRSTL"
 	},
 	"ROUTE_27_RARE_CANDY": {
 		"label": "Route 27 - Item 1",
@@ -1029,7 +1029,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route27RareCandy",
-		"default_item": "RARE_CANDY"
+		"default_item": "RARE_CANDY_PKMN_CRSTL"
 	},
 	"ROUTE_27_TM_SOLARBEAM": {
 		"label": "Route 27 - Item 2",
@@ -1037,12 +1037,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route27TMSolarbeam",
-		"default_item": "TM_SOLARBEAM"
+		"default_item": "TM_SOLARBEAM_PKMN_CRSTL"
 	},
 	"ROUTE_28_HIDDEN_RARE_CANDY": {
 		"label": "Route 28 - Hidden Item Behind Cut Tree",
 		"flag": "EVENT_ROUTE_28_HIDDEN_RARE_CANDY",
-		"default_item": "RARE_CANDY",
+		"default_item": "RARE_CANDY_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route28HiddenRareCandy"
@@ -1053,7 +1053,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route29Potion",
-		"default_item": "POTION"
+		"default_item": "POTION_PKMN_CRSTL"
 	},
 	"ROUTE_30_ANTIDOTE": {
 		"label": "Route 30 - Item",
@@ -1061,12 +1061,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route30Antidote",
-		"default_item": "ANTIDOTE"
+		"default_item": "ANTIDOTE_PKMN_CRSTL"
 	},
 	"ROUTE_30_HIDDEN_POTION": {
 		"label": "Route 30 - Hidden Item in Flowers",
 		"flag": "EVENT_ROUTE_30_HIDDEN_POTION",
-		"default_item": "POTION",
+		"default_item": "POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route30HiddenPotion"
@@ -1077,7 +1077,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route31PokeBall",
-		"default_item": "POKE_BALL"
+		"default_item": "POKE_BALL_PKMN_CRSTL"
 	},
 	"ROUTE_31_POTION": {
 		"label": "Route 31 - Item 2",
@@ -1085,7 +1085,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route31Potion",
-		"default_item": "POTION"
+		"default_item": "POTION_PKMN_CRSTL"
 	},
 	"ROUTE_32_GREAT_BALL": {
 		"label": "Route 32 - Item 1",
@@ -1093,12 +1093,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route32GreatBall",
-		"default_item": "GREAT_BALL"
+		"default_item": "GREAT_BALL_PKMN_CRSTL"
 	},
 	"ROUTE_32_HIDDEN_GREAT_BALL": {
 		"label": "Route 32 - Hidden Item by Frieda",
 		"flag": "EVENT_ROUTE_32_HIDDEN_GREAT_BALL",
-		"default_item": "GREAT_BALL",
+		"default_item": "GREAT_BALL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route32HiddenGreatBall"
@@ -1106,7 +1106,7 @@
 	"ROUTE_32_HIDDEN_SUPER_POTION": {
 		"label": "Route 32 - Hidden Item North of Bridge",
 		"flag": "EVENT_ROUTE_32_HIDDEN_SUPER_POTION",
-		"default_item": "SUPER_POTION",
+		"default_item": "SUPER_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route32HiddenSuperPotion"
@@ -1117,12 +1117,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route32Repel",
-		"default_item": "REPEL"
+		"default_item": "REPEL_PKMN_CRSTL"
 	},
 	"ROUTE_34_HIDDEN_RARE_CANDY": {
 		"label": "Route 34 - Hidden Item Across Water",
 		"flag": "EVENT_ROUTE_34_HIDDEN_RARE_CANDY",
-		"default_item": "RARE_CANDY",
+		"default_item": "RARE_CANDY_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route34HiddenRareCandy"
@@ -1130,7 +1130,7 @@
 	"ROUTE_34_HIDDEN_SUPER_POTION": {
 		"label": "Route 34 - Hidden Item in Day-Care Yard",
 		"flag": "EVENT_ROUTE_34_HIDDEN_SUPER_POTION",
-		"default_item": "SUPER_POTION",
+		"default_item": "SUPER_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route34HiddenSuperPotion"
@@ -1141,7 +1141,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route34Nugget",
-		"default_item": "NUGGET"
+		"default_item": "NUGGET_PKMN_CRSTL"
 	},
 	"ROUTE_35_TM_ROLLOUT": {
 		"label": "Route 35 - Item",
@@ -1149,12 +1149,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route35TMRollout",
-		"default_item": "TM_ROLLOUT"
+		"default_item": "TM_ROLLOUT_PKMN_CRSTL"
 	},
 	"ROUTE_37_HIDDEN_ETHER": {
 		"label": "Route 37 - Hidden Item",
 		"flag": "EVENT_ROUTE_37_HIDDEN_ETHER",
-		"default_item": "ETHER",
+		"default_item": "ETHER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route37HiddenEther"
@@ -1162,7 +1162,7 @@
 	"ROUTE_39_HIDDEN_NUGGET": {
 		"label": "Route 39 - Hidden Item Between Miltank",
 		"flag": "EVENT_ROUTE_39_HIDDEN_NUGGET",
-		"default_item": "NUGGET",
+		"default_item": "NUGGET_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route39HiddenNugget"
@@ -1170,7 +1170,7 @@
 	"ROUTE_4_HIDDEN_ULTRA_BALL": {
 		"label": "Route 4 - Hidden Item on Plateau",
 		"flag": "EVENT_ROUTE_4_HIDDEN_ULTRA_BALL",
-		"default_item": "ULTRA_BALL",
+		"default_item": "ULTRA_BALL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route4HiddenUltraBall"
@@ -1181,12 +1181,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route4HPUp",
-		"default_item": "HP_UP"
+		"default_item": "HP_UP_PKMN_CRSTL"
 	},
 	"ROUTE_40_HIDDEN_HYPER_POTION": {
 		"label": "Route 40 - Hidden Item in Rock",
 		"flag": "EVENT_ROUTE_40_HIDDEN_HYPER_POTION",
-		"default_item": "HYPER_POTION",
+		"default_item": "HYPER_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route40HiddenHyperPotion"
@@ -1194,7 +1194,7 @@
 	"ROUTE_41_HIDDEN_MAX_ETHER": {
 		"label": "Route 41 - Hidden Item on Southwest Island",
 		"flag": "EVENT_ROUTE_41_HIDDEN_MAX_ETHER",
-		"default_item": "MAX_ETHER",
+		"default_item": "MAX_ETHER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route41HiddenMaxEther"
@@ -1202,7 +1202,7 @@
 	"ROUTE_42_HIDDEN_MAX_POTION": {
 		"label": "Route 42 - Hidden Item in Pond Rock",
 		"flag": "EVENT_ROUTE_42_HIDDEN_MAX_POTION",
-		"default_item": "MAX_POTION",
+		"default_item": "MAX_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route42HiddenMaxPotion"
@@ -1213,7 +1213,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route42SuperPotion",
-		"default_item": "SUPER_POTION"
+		"default_item": "SUPER_POTION_PKMN_CRSTL"
 	},
 	"ROUTE_42_ULTRA_BALL": {
 		"label": "Route 42 - Item 2",
@@ -1221,7 +1221,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route42UltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"ROUTE_43_MAX_ETHER": {
 		"label": "Route 43 - Item",
@@ -1229,12 +1229,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route43MaxEther",
-		"default_item": "MAX_ETHER"
+		"default_item": "MAX_ETHER_PKMN_CRSTL"
 	},
 	"ROUTE_44_HIDDEN_ELIXER": {
 		"label": "Route 44 - Hidden Item Across Water",
 		"flag": "EVENT_ROUTE_44_HIDDEN_ELIXER",
-		"default_item": "ELIXER",
+		"default_item": "ELIXER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route44HiddenElixer"
@@ -1245,7 +1245,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route44MaxRepel",
-		"default_item": "MAX_REPEL"
+		"default_item": "MAX_REPEL_PKMN_CRSTL"
 	},
 	"ROUTE_44_MAX_REVIVE": {
 		"label": "Route 44 - Item 2",
@@ -1253,7 +1253,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route44MaxRevive",
-		"default_item": "MAX_REVIVE"
+		"default_item": "MAX_REVIVE_PKMN_CRSTL"
 	},
 	"ROUTE_44_ULTRA_BALL": {
 		"label": "Route 44 - Item 3",
@@ -1261,7 +1261,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route44UltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"ROUTE_45_ELIXER": {
 		"label": "Route 45 - Item 1",
@@ -1269,12 +1269,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route45Elixer",
-		"default_item": "ELIXER"
+		"default_item": "ELIXER_PKMN_CRSTL"
 	},
 	"ROUTE_45_HIDDEN_PP_UP": {
 		"label": "Route 45 - Hidden Item in Southeast Pond",
 		"flag": "EVENT_ROUTE_45_HIDDEN_PP_UP",
-		"default_item": "PP_UP",
+		"default_item": "PP_UP_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route45HiddenPpUp"
@@ -1285,7 +1285,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route45MaxPotion",
-		"default_item": "MAX_POTION"
+		"default_item": "MAX_POTION_PKMN_CRSTL"
 	},
 	"ROUTE_45_NUGGET": {
 		"label": "Route 45 - Item 3",
@@ -1293,7 +1293,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route45Nugget",
-		"default_item": "NUGGET"
+		"default_item": "NUGGET_PKMN_CRSTL"
 	},
 	"ROUTE_45_REVIVE": {
 		"label": "Route 45 - Item 4",
@@ -1301,7 +1301,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route45Revive",
-		"default_item": "REVIVE"
+		"default_item": "REVIVE_PKMN_CRSTL"
 	},
 	"ROUTE_46_X_SPEED": {
 		"label": "Route 46 - Item",
@@ -1309,12 +1309,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "Route46XSpeed",
-		"default_item": "X_SPEED"
+		"default_item": "X_SPEED_PKMN_CRSTL"
 	},
 	"ROUTE_9_HIDDEN_ETHER": {
 		"label": "Route 9 - Hidden Item in Southeast Corner",
 		"flag": "EVENT_ROUTE_9_HIDDEN_ETHER",
-		"default_item": "ETHER",
+		"default_item": "ETHER_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "Route9HiddenEther"
@@ -1325,7 +1325,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphAerodactylItemRoomEnergyRoot",
-		"default_item": "ENERGY_ROOT"
+		"default_item": "ENERGY_ROOT_PKMN_CRSTL"
 	},
 	"PICKED_UP_GOLD_BERRY_FROM_AERODACTYL_ITEM_ROOM": {
 		"label": "Ruins of Alph - Aerodactyl Room Item 2",
@@ -1333,7 +1333,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphAerodactylItemRoomGoldBerry",
-		"default_item": "GOLD_BERRY"
+		"default_item": "GOLD_BERRY_PKMN_CRSTL"
 	},
 	"PICKED_UP_HEAL_POWDER_FROM_AERODACTYL_ITEM_ROOM": {
 		"label": "Ruins of Alph - Aerodactyl Room Item 3",
@@ -1341,7 +1341,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphAerodactylItemRoomHealPowder",
-		"default_item": "HEAL_POWDER"
+		"default_item": "HEAL_POWDER_PKMN_CRSTL"
 	},
 	"PICKED_UP_MOON_STONE_FROM_AERODACTYL_ITEM_ROOM": {
 		"label": "Ruins of Alph - Aerodactyl Room Item 4",
@@ -1349,7 +1349,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphAerodactylItemRoomMoonStone",
-		"default_item": "MOON_STONE"
+		"default_item": "MOON_STONE_PKMN_CRSTL"
 	},
 	"PICKED_UP_CHARCOAL_FROM_HO_OH_ITEM_ROOM": {
 		"label": "Ruins of Alph - Ho-Oh Room Item 1",
@@ -1357,7 +1357,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphHoOhItemRoomCharcoal",
-		"default_item": "CHARCOAL"
+		"default_item": "CHARCOAL_PKMN_CRSTL"
 	},
 	"PICKED_UP_GOLD_BERRY_FROM_HO_OH_ITEM_ROOM": {
 		"label": "Ruins of Alph - Ho-Oh Room Item 2",
@@ -1365,7 +1365,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphHoOhItemRoomGoldBerry",
-		"default_item": "GOLD_BERRY"
+		"default_item": "GOLD_BERRY_PKMN_CRSTL"
 	},
 	"PICKED_UP_MYSTERYBERRY_FROM_HO_OH_ITEM_ROOM": {
 		"label": "Ruins of Alph - Ho-Oh Room Item 3",
@@ -1373,7 +1373,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphHoOhItemRoomMysteryberry",
-		"default_item": "MYSTERYBERRY"
+		"default_item": "MYSTERYBERRY_PKMN_CRSTL"
 	},
 	"PICKED_UP_REVIVAL_HERB_FROM_HO_OH_ITEM_ROOM": {
 		"label": "Ruins of Alph - Ho-Oh Room Item 4",
@@ -1381,7 +1381,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphHoOhItemRoomRevivalHerb",
-		"default_item": "REVIVAL_HERB"
+		"default_item": "REVIVAL_HERB_PKMN_CRSTL"
 	},
 	"PICKED_UP_BERRY_FROM_KABUTO_ITEM_ROOM": {
 		"label": "Ruins of Alph - Kabuto Room Item 1",
@@ -1389,7 +1389,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphKabutoItemRoomBerry",
-		"default_item": "BERRY"
+		"default_item": "BERRY_PKMN_CRSTL"
 	},
 	"PICKED_UP_ENERGYPOWDER_FROM_KABUTO_ITEM_ROOM": {
 		"label": "Ruins of Alph - Kabuto Room Item 2",
@@ -1397,7 +1397,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphKabutoItemRoomEnergypowder",
-		"default_item": "ENERGYPOWDER"
+		"default_item": "ENERGYPOWDER_PKMN_CRSTL"
 	},
 	"PICKED_UP_HEAL_POWDER_FROM_KABUTO_ITEM_ROOM": {
 		"label": "Ruins of Alph - Kabuto Room Item 3",
@@ -1405,7 +1405,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphKabutoItemRoomHealPowder",
-		"default_item": "HEAL_POWDER"
+		"default_item": "HEAL_POWDER_PKMN_CRSTL"
 	},
 	"PICKED_UP_PSNCUREBERRY_FROM_KABUTO_ITEM_ROOM": {
 		"label": "Ruins of Alph - Kabuto Room Item 4",
@@ -1413,7 +1413,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphKabutoItemRoomPsncureberry",
-		"default_item": "PSNCUREBERRY"
+		"default_item": "PSNCUREBERRY_PKMN_CRSTL"
 	},
 	"PICKED_UP_MYSTERYBERRY_FROM_OMANYTE_ITEM_ROOM": {
 		"label": "Ruins of Alph - Omanyte Room Item 1",
@@ -1421,7 +1421,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphOmanyteItemRoomMysteryberry",
-		"default_item": "MYSTERYBERRY"
+		"default_item": "MYSTERYBERRY_PKMN_CRSTL"
 	},
 	"PICKED_UP_MYSTIC_WATER_FROM_OMANYTE_ITEM_ROOM": {
 		"label": "Ruins of Alph - Omanyte Room Item 2",
@@ -1429,7 +1429,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphOmanyteItemRoomMysticWater",
-		"default_item": "MYSTIC_WATER"
+		"default_item": "MYSTIC_WATER_PKMN_CRSTL"
 	},
 	"PICKED_UP_STAR_PIECE_FROM_OMANYTE_ITEM_ROOM": {
 		"label": "Ruins of Alph - Omanyte Room Item 3",
@@ -1437,7 +1437,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphOmanyteItemRoomStarPiece",
-		"default_item": "STAR_PIECE"
+		"default_item": "STAR_PIECE_PKMN_CRSTL"
 	},
 	"PICKED_UP_STARDUST_FROM_OMANYTE_ITEM_ROOM": {
 		"label": "Ruins of Alph - Omanyte Room Item 4",
@@ -1445,7 +1445,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "RuinsOfAlphOmanyteItemRoomStardust",
-		"default_item": "STARDUST"
+		"default_item": "STARDUST_PKMN_CRSTL"
 	},
 	"SILVER_CAVE_ITEM_ROOMS_FULL_RESTORE": {
 		"label": "Silver Cave 2F - Chambers Item 1",
@@ -1453,7 +1453,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SilverCaveItemRoomsFullRestore",
-		"default_item": "FULL_RESTORE"
+		"default_item": "FULL_RESTORE_PKMN_CRSTL"
 	},
 	"SILVER_CAVE_ITEM_ROOMS_MAX_REVIVE": {
 		"label": "Silver Cave 2F - Chambers Item 2",
@@ -1461,12 +1461,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SilverCaveItemRoomsMaxRevive",
-		"default_item": "MAX_REVIVE"
+		"default_item": "MAX_REVIVE_PKMN_CRSTL"
 	},
 	"SILVER_CAVE_OUTSIDE_HIDDEN_FULL_RESTORE": {
 		"label": "Outside Silver Cave - Hidden Item Across Water",
 		"flag": "EVENT_SILVER_CAVE_OUTSIDE_HIDDEN_FULL_RESTORE",
-		"default_item": "FULL_RESTORE",
+		"default_item": "FULL_RESTORE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "SilverCaveOutsideHiddenFullRestore"
@@ -1477,12 +1477,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SilverCaveRoom1EscapeRope",
-		"default_item": "ESCAPE_ROPE"
+		"default_item": "ESCAPE_ROPE_PKMN_CRSTL"
 	},
 	"SILVER_CAVE_ROOM_1_HIDDEN_DIRE_HIT": {
 		"label": "Silver Cave 1F - Hidden Item 1",
 		"flag": "EVENT_SILVER_CAVE_ROOM_1_HIDDEN_DIRE_HIT",
-		"default_item": "DIRE_HIT",
+		"default_item": "DIRE_HIT_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "SilverCaveRoom1HiddenDireHit"
@@ -1490,7 +1490,7 @@
 	"SILVER_CAVE_ROOM_1_HIDDEN_ULTRA_BALL": {
 		"label": "Silver Cave 1F - Hidden Item 2",
 		"flag": "EVENT_SILVER_CAVE_ROOM_1_HIDDEN_ULTRA_BALL",
-		"default_item": "ULTRA_BALL",
+		"default_item": "ULTRA_BALL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "SilverCaveRoom1HiddenUltraBall"
@@ -1501,7 +1501,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SilverCaveRoom1MaxElixer",
-		"default_item": "MAX_ELIXER"
+		"default_item": "MAX_ELIXER_PKMN_CRSTL"
 	},
 	"SILVER_CAVE_ROOM_1_PROTEIN": {
 		"label": "Silver Cave 1F - Item 3",
@@ -1509,7 +1509,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SilverCaveRoom1Protein",
-		"default_item": "PROTEIN"
+		"default_item": "PROTEIN_PKMN_CRSTL"
 	},
 	"SILVER_CAVE_ROOM_1_ULTRA_BALL": {
 		"label": "Silver Cave 1F - Item 4",
@@ -1517,7 +1517,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SilverCaveRoom1UltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"SILVER_CAVE_ROOM_2_CALCIUM": {
 		"label": "Silver Cave 2F - Item 1",
@@ -1525,12 +1525,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SilverCaveRoom2Calcium",
-		"default_item": "CALCIUM"
+		"default_item": "CALCIUM_PKMN_CRSTL"
 	},
 	"SILVER_CAVE_ROOM_2_HIDDEN_MAX_POTION": {
 		"label": "Silver Cave 2F - Hidden Item",
 		"flag": "EVENT_SILVER_CAVE_ROOM_2_HIDDEN_MAX_POTION",
-		"default_item": "MAX_POTION",
+		"default_item": "MAX_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "SilverCaveRoom2HiddenMaxPotion"
@@ -1541,7 +1541,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SilverCaveRoom2PPUp",
-		"default_item": "PP_UP"
+		"default_item": "PP_UP_PKMN_CRSTL"
 	},
 	"SILVER_CAVE_ROOM_2_ULTRA_BALL": {
 		"label": "Silver Cave 2F - Item 3",
@@ -1549,7 +1549,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SilverCaveRoom2UltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"SLOWPOKE_WELL_B1F_SUPER_POTION": {
 		"label": "Slowpoke Well B1F - Item 1",
@@ -1557,7 +1557,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SlowpokeWellB1FSuperPotion",
-		"default_item": "SUPER_POTION"
+		"default_item": "SUPER_POTION_PKMN_CRSTL"
 	},
 	"SLOWPOKE_WELL_B2F_TM_RAIN_DANCE": {
 		"label": "Slowpoke Well B2F - Item 1",
@@ -1565,7 +1565,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SlowpokeWellB2FTMRainDance",
-		"default_item": "TM_RAIN_DANCE"
+		"default_item": "TM_RAIN_DANCE_PKMN_CRSTL"
 	},
 	"SPROUT_TOWER_1F_PARLYZ_HEAL": {
 		"label": "Sprout Tower 1F - Item",
@@ -1573,7 +1573,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SproutTower1FParlyzHeal",
-		"default_item": "PARLYZ_HEAL"
+		"default_item": "PARLYZ_HEAL_PKMN_CRSTL"
 	},
 	"SPROUT_TOWER_2F_X_ACCURACY": {
 		"label": "Sprout Tower 2F - Item",
@@ -1581,7 +1581,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SproutTower2FXAccuracy",
-		"default_item": "X_ACCURACY"
+		"default_item": "X_ACCURACY_PKMN_CRSTL"
 	},
 	"SPROUT_TOWER_3F_ESCAPE_ROPE": {
 		"label": "Sprout Tower 3F - Item 1",
@@ -1589,7 +1589,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SproutTower3FEscapeRope",
-		"default_item": "ESCAPE_ROPE"
+		"default_item": "ESCAPE_ROPE_PKMN_CRSTL"
 	},
 	"SPROUT_TOWER_3F_POTION": {
 		"label": "Sprout Tower 3F - Item 2",
@@ -1597,7 +1597,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "SproutTower3FPotion",
-		"default_item": "POTION"
+		"default_item": "POTION_PKMN_CRSTL"
 	},
 	"TEAM_ROCKET_BASE_B1F_GUARD_SPEC": {
 		"label": "Rocket HQ B1F - Item 1",
@@ -1605,12 +1605,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TeamRocketBaseB1FGuardSpec",
-		"default_item": "GUARD_SPEC"
+		"default_item": "GUARD_SPEC_PKMN_CRSTL"
 	},
 	"TEAM_ROCKET_BASE_B1F_HIDDEN_REVIVE": {
 		"label": "Rocket HQ B1F - Hidden Item in West",
 		"flag": "EVENT_TEAM_ROCKET_BASE_B1F_HIDDEN_REVIVE",
-		"default_item": "REVIVE",
+		"default_item": "REVIVE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "TeamRocketBaseB1FHiddenRevive"
@@ -1621,7 +1621,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TeamRocketBaseB1FHyperPotion",
-		"default_item": "HYPER_POTION"
+		"default_item": "HYPER_POTION_PKMN_CRSTL"
 	},
 	"TEAM_ROCKET_BASE_B1F_NUGGET": {
 		"label": "Rocket HQ B1F - Item 3",
@@ -1629,12 +1629,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TeamRocketBaseB1FNugget",
-		"default_item": "NUGGET"
+		"default_item": "NUGGET_PKMN_CRSTL"
 	},
 	"TEAM_ROCKET_BASE_B2F_HIDDEN_FULL_HEAL": {
 		"label": "Rocket HQ B2F - Hidden Item",
 		"flag": "EVENT_TEAM_ROCKET_BASE_B2F_HIDDEN_FULL_HEAL",
-		"default_item": "FULL_HEAL",
+		"default_item": "FULL_HEAL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "TeamRocketBaseB2FHiddenFullHeal"
@@ -1645,7 +1645,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TeamRocketBaseB2FTMThief",
-		"default_item": "TM_THIEF"
+		"default_item": "TM_THIEF_PKMN_CRSTL"
 	},
 	"TEAM_ROCKET_BASE_B3F_FULL_HEAL": {
 		"label": "Rocket HQ B3F - Item 1",
@@ -1653,7 +1653,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TeamRocketBaseB3FFullHeal",
-		"default_item": "FULL_HEAL"
+		"default_item": "FULL_HEAL_PKMN_CRSTL"
 	},
 	"TEAM_ROCKET_BASE_B3F_ICE_HEAL": {
 		"label": "Rocket HQ B3F - Item 2",
@@ -1661,7 +1661,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TeamRocketBaseB3FIceHeal",
-		"default_item": "ICE_HEAL"
+		"default_item": "ICE_HEAL_PKMN_CRSTL"
 	},
 	"TEAM_ROCKET_BASE_B3F_PROTEIN": {
 		"label": "Rocket HQ B3F - Item 3",
@@ -1669,7 +1669,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TeamRocketBaseB3FProtein",
-		"default_item": "PROTEIN"
+		"default_item": "PROTEIN_PKMN_CRSTL"
 	},
 	"TEAM_ROCKET_BASE_B3F_ULTRA_BALL": {
 		"label": "Rocket HQ B3F - Item 4",
@@ -1677,7 +1677,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TeamRocketBaseB3FUltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"TEAM_ROCKET_BASE_B3F_X_SPECIAL": {
 		"label": "Rocket HQ B3F - Item 5",
@@ -1685,7 +1685,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TeamRocketBaseB3FXSpecial",
-		"default_item": "X_SPECIAL"
+		"default_item": "X_SPECIAL_PKMN_CRSTL"
 	},
 	"TIN_TOWER_3F_FULL_HEAL": {
 		"label": "Tin Tower 3F - Item",
@@ -1693,7 +1693,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TinTower3FFullHeal",
-		"default_item": "FULL_HEAL"
+		"default_item": "FULL_HEAL_PKMN_CRSTL"
 	},
 	"TIN_TOWER_4F_ESCAPE_ROPE": {
 		"label": "Tin Tower 4F - Item 1",
@@ -1701,12 +1701,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TinTower4FEscapeRope",
-		"default_item": "ESCAPE_ROPE"
+		"default_item": "ESCAPE_ROPE_PKMN_CRSTL"
 	},
 	"TIN_TOWER_4F_HIDDEN_MAX_POTION": {
 		"label": "Tin Tower 4F - Hidden Item in Center",
 		"flag": "EVENT_TIN_TOWER_4F_HIDDEN_MAX_POTION",
-		"default_item": "MAX_POTION",
+		"default_item": "MAX_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "TinTower4FHiddenMaxPotion"
@@ -1717,7 +1717,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TinTower4FPPUp",
-		"default_item": "PP_UP"
+		"default_item": "PP_UP_PKMN_CRSTL"
 	},
 	"TIN_TOWER_4F_ULTRA_BALL": {
 		"label": "Tin Tower 4F - Item 3",
@@ -1725,12 +1725,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TinTower4FUltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"TIN_TOWER_5F_HIDDEN_CARBOS": {
 		"label": "Tin Tower 5F - Hidden Item in Southwest",
 		"flag": "EVENT_TIN_TOWER_5F_HIDDEN_CARBOS",
-		"default_item": "CARBOS",
+		"default_item": "CARBOS_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "TinTower5FHiddenCarbos"
@@ -1738,7 +1738,7 @@
 	"TIN_TOWER_5F_HIDDEN_FULL_RESTORE": {
 		"label": "Tin Tower 5F - Hidden Item in Southeast",
 		"flag": "EVENT_TIN_TOWER_5F_HIDDEN_FULL_RESTORE",
-		"default_item": "FULL_RESTORE",
+		"default_item": "FULL_RESTORE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "TinTower5FHiddenFullRestore"
@@ -1749,7 +1749,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TinTower5FRareCandy",
-		"default_item": "RARE_CANDY"
+		"default_item": "RARE_CANDY_PKMN_CRSTL"
 	},
 	"TIN_TOWER_6F_MAX_POTION": {
 		"label": "Tin Tower 6F - Item",
@@ -1757,7 +1757,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TinTower6FMaxPotion",
-		"default_item": "MAX_POTION"
+		"default_item": "MAX_POTION_PKMN_CRSTL"
 	},
 	"TIN_TOWER_7F_MAX_REVIVE": {
 		"label": "Tin Tower 7F - Item",
@@ -1765,7 +1765,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TinTower7FMaxRevive",
-		"default_item": "MAX_REVIVE"
+		"default_item": "MAX_REVIVE_PKMN_CRSTL"
 	},
 	"TIN_TOWER_8F_FULL_RESTORE": {
 		"label": "Tin Tower 8F - Item 1",
@@ -1773,7 +1773,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TinTower8FFullRestore",
-		"default_item": "FULL_RESTORE"
+		"default_item": "FULL_RESTORE_PKMN_CRSTL"
 	},
 	"TIN_TOWER_8F_MAX_ELIXER": {
 		"label": "Tin Tower 8F - Item 2",
@@ -1781,7 +1781,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TinTower8FMaxElixer",
-		"default_item": "MAX_ELIXER"
+		"default_item": "MAX_ELIXER_PKMN_CRSTL"
 	},
 	"TIN_TOWER_8F_NUGGET": {
 		"label": "Tin Tower 8F - Item 3",
@@ -1789,7 +1789,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TinTower8FNugget",
-		"default_item": "NUGGET"
+		"default_item": "NUGGET_PKMN_CRSTL"
 	},
 	"TIN_TOWER_9F_HP_UP": {
 		"label": "Tin Tower 9F - Item",
@@ -1797,7 +1797,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TinTower9FHPUp",
-		"default_item": "HP_UP"
+		"default_item": "HP_UP_PKMN_CRSTL"
 	},
 	"TOHJO_FALLS_MOON_STONE": {
 		"label": "Tohjo Falls - Item",
@@ -1805,12 +1805,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "TohjoFallsMoonStone",
-		"default_item": "MOON_STONE"
+		"default_item": "MOON_STONE_PKMN_CRSTL"
 	},
 	"UNDERGROUND_PATH_HIDDEN_FULL_RESTORE": {
 		"label": "Underground Path - Hidden Item in North",
 		"flag": "EVENT_UNDERGROUND_PATH_HIDDEN_FULL_RESTORE",
-		"default_item": "FULL_RESTORE",
+		"default_item": "FULL_RESTORE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "UndergroundPathHiddenFullRestore"
@@ -1818,7 +1818,7 @@
 	"UNDERGROUND_PATH_HIDDEN_X_SPECIAL": {
 		"label": "Underground Path - Hidden Item in South",
 		"flag": "EVENT_UNDERGROUND_PATH_HIDDEN_X_SPECIAL",
-		"default_item": "X_SPECIAL",
+		"default_item": "X_SPECIAL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "UndergroundPathHiddenXSpecial"
@@ -1829,7 +1829,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "UnionCave1FAwakening",
-		"default_item": "AWAKENING"
+		"default_item": "AWAKENING_PKMN_CRSTL"
 	},
 	"UNION_CAVE_1F_GREAT_BALL": {
 		"label": "Union Cave 1F - Item 2",
@@ -1837,7 +1837,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "UnionCave1FGreatBall",
-		"default_item": "GREAT_BALL"
+		"default_item": "GREAT_BALL_PKMN_CRSTL"
 	},
 	"UNION_CAVE_1F_POTION": {
 		"label": "Union Cave 1F - Item 3",
@@ -1845,7 +1845,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "UnionCave1FPotion",
-		"default_item": "POTION"
+		"default_item": "POTION_PKMN_CRSTL"
 	},
 	"UNION_CAVE_1F_X_ATTACK": {
 		"label": "Union Cave 1F - Item 4",
@@ -1853,7 +1853,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "UnionCave1FXAttack",
-		"default_item": "X_ATTACK"
+		"default_item": "X_ATTACK_PKMN_CRSTL"
 	},
 	"UNION_CAVE_B1F_TM_SWIFT": {
 		"label": "Union Cave B1F - Item 1",
@@ -1861,7 +1861,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "UnionCaveB1FTMSwift",
-		"default_item": "TM_SWIFT"
+		"default_item": "TM_SWIFT_PKMN_CRSTL"
 	},
 	"UNION_CAVE_B1F_X_DEFEND": {
 		"label": "Union Cave B1F - Item 2",
@@ -1869,7 +1869,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "UnionCaveB1FXDefend",
-		"default_item": "X_DEFEND"
+		"default_item": "X_DEFEND_PKMN_CRSTL"
 	},
 	"UNION_CAVE_B2F_ELIXER": {
 		"label": "Union Cave B2F - Item 1",
@@ -1877,7 +1877,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "UnionCaveB2FElixer",
-		"default_item": "ELIXER"
+		"default_item": "ELIXER_PKMN_CRSTL"
 	},
 	"UNION_CAVE_B2F_HYPER_POTION": {
 		"label": "Union Cave B2F - Item 2",
@@ -1885,12 +1885,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "UnionCaveB2FHyperPotion",
-		"default_item": "HYPER_POTION"
+		"default_item": "HYPER_POTION_PKMN_CRSTL"
 	},
 	"VERMILION_CITY_HIDDEN_FULL_HEAL": {
 		"label": "Vermilion City - Hidden Item by Gym",
 		"flag": "EVENT_VERMILION_CITY_HIDDEN_FULL_HEAL",
-		"default_item": "FULL_HEAL",
+		"default_item": "FULL_HEAL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "VermilionCityHiddenFullHeal"
@@ -1898,7 +1898,7 @@
 	"VERMILION_PORT_HIDDEN_IRON": {
 		"label": "Vermilion Port - Hidden Item in Buoy",
 		"flag": "EVENT_VERMILION_PORT_HIDDEN_IRON",
-		"default_item": "IRON",
+		"default_item": "IRON_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "VermilionPortHiddenIron"
@@ -1909,7 +1909,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "VictoryRoadFullHeal",
-		"default_item": "FULL_HEAL"
+		"default_item": "FULL_HEAL_PKMN_CRSTL"
 	},
 	"VICTORY_ROAD_FULL_RESTORE": {
 		"label": "Victory Road 2F - Item 1",
@@ -1917,12 +1917,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "VictoryRoadFullRestore",
-		"default_item": "FULL_RESTORE"
+		"default_item": "FULL_RESTORE_PKMN_CRSTL"
 	},
 	"VICTORY_ROAD_HIDDEN_FULL_HEAL": {
 		"label": "Victory Road 1F - Hidden Item on Southwest Boulder",
 		"flag": "EVENT_VICTORY_ROAD_HIDDEN_FULL_HEAL",
-		"default_item": "FULL_HEAL",
+		"default_item": "FULL_HEAL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "VictoryRoadHiddenFullHeal"
@@ -1930,7 +1930,7 @@
 	"VICTORY_ROAD_HIDDEN_MAX_POTION": {
 		"label": "Victory Road 2F - Hidden Item on Northwest Boulder",
 		"flag": "EVENT_VICTORY_ROAD_HIDDEN_MAX_POTION",
-		"default_item": "MAX_POTION",
+		"default_item": "MAX_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "VictoryRoadHiddenMaxPotion"
@@ -1941,7 +1941,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "VictoryRoadHPUp",
-		"default_item": "HP_UP"
+		"default_item": "HP_UP_PKMN_CRSTL"
 	},
 	"VICTORY_ROAD_MAX_REVIVE": {
 		"label": "Victory Road 1F - Item 2",
@@ -1949,7 +1949,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "VictoryRoadMaxRevive",
-		"default_item": "MAX_REVIVE"
+		"default_item": "MAX_REVIVE_PKMN_CRSTL"
 	},
 	"VICTORY_ROAD_TM_EARTHQUAKE": {
 		"label": "Victory Road 2F - Item 3",
@@ -1957,12 +1957,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "VictoryRoadTMEarthquake",
-		"default_item": "TM_EARTHQUAKE"
+		"default_item": "TM_EARTHQUAKE_PKMN_CRSTL"
 	},
 	"VIOLET_CITY_HIDDEN_HYPER_POTION": {
 		"label": "Violet City - Hidden Item Behind Cut Tree",
 		"flag": "EVENT_VIOLET_CITY_HIDDEN_HYPER_POTION",
-		"default_item": "HYPER_POTION",
+		"default_item": "HYPER_POTION_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "VioletCityHiddenHyperPotion"
@@ -1973,7 +1973,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "VioletCityPPUp",
-		"default_item": "PP_UP"
+		"default_item": "PP_UP_PKMN_CRSTL"
 	},
 	"VIOLET_CITY_RARE_CANDY": {
 		"label": "Violet City - Item 2",
@@ -1981,7 +1981,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "VioletCityRareCandy",
-		"default_item": "RARE_CANDY"
+		"default_item": "RARE_CANDY_PKMN_CRSTL"
 	},
 	"WHIRL_ISLAND_B1F_CALCIUM": {
 		"label": "Whirl Islands B1F - Item 1",
@@ -1989,7 +1989,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "WhirlIslandB1FCalcium",
-		"default_item": "CALCIUM"
+		"default_item": "CALCIUM_PKMN_CRSTL"
 	},
 	"WHIRL_ISLAND_B1F_CARBOS": {
 		"label": "Whirl Islands B1F - Item 2",
@@ -1997,7 +1997,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "WhirlIslandB1FCarbos",
-		"default_item": "CARBOS"
+		"default_item": "CARBOS_PKMN_CRSTL"
 	},
 	"WHIRL_ISLAND_B1F_ESCAPE_ROPE": {
 		"label": "Whirl Islands B1F - Item 3",
@@ -2005,7 +2005,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "WhirlIslandB1FEscapeRope",
-		"default_item": "ESCAPE_ROPE"
+		"default_item": "ESCAPE_ROPE_PKMN_CRSTL"
 	},
 	"WHIRL_ISLAND_B1F_FULL_RESTORE": {
 		"label": "Whirl Islands B1F - Item 4",
@@ -2013,12 +2013,12 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "WhirlIslandB1FFullRestore",
-		"default_item": "FULL_RESTORE"
+		"default_item": "FULL_RESTORE_PKMN_CRSTL"
 	},
 	"WHIRL_ISLAND_B1F_HIDDEN_FULL_RESTORE": {
 		"label": "Whirl Islands B1F - Hidden Item on Boulder in West",
 		"flag": "EVENT_WHIRL_ISLAND_B1F_HIDDEN_FULL_RESTORE",
-		"default_item": "FULL_RESTORE",
+		"default_item": "FULL_RESTORE_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "WhirlIslandB1FHiddenFullRestore"
@@ -2026,7 +2026,7 @@
 	"WHIRL_ISLAND_B1F_HIDDEN_RARE_CANDY": {
 		"label": "Whirl Islands B1F - Hidden Item in Northeast",
 		"flag": "EVENT_WHIRL_ISLAND_B1F_HIDDEN_RARE_CANDY",
-		"default_item": "RARE_CANDY",
+		"default_item": "RARE_CANDY_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "WhirlIslandB1FHiddenRareCandy"
@@ -2034,7 +2034,7 @@
 	"WHIRL_ISLAND_B1F_HIDDEN_ULTRA_BALL": {
 		"label": "Whirl Islands B1F - Hidden Item in East",
 		"flag": "EVENT_WHIRL_ISLAND_B1F_HIDDEN_ULTRA_BALL",
-		"default_item": "ULTRA_BALL",
+		"default_item": "ULTRA_BALL_PKMN_CRSTL",
 		"type": "hiddenitem",
 		"tags": ["Hidden"],
 		"script": "WhirlIslandB1FHiddenUltraBall"
@@ -2045,7 +2045,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "WhirlIslandB1FNugget",
-		"default_item": "NUGGET"
+		"default_item": "NUGGET_PKMN_CRSTL"
 	},
 	"WHIRL_ISLAND_B2F_FULL_RESTORE": {
 		"label": "Whirl Islands B2F - Item 1",
@@ -2053,7 +2053,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "WhirlIslandB2FFullRestore",
-		"default_item": "FULL_RESTORE"
+		"default_item": "FULL_RESTORE_PKMN_CRSTL"
 	},
 	"WHIRL_ISLAND_B2F_MAX_ELIXER": {
 		"label": "Whirl Islands B2F - Item 2",
@@ -2061,7 +2061,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "WhirlIslandB2FMaxElixer",
-		"default_item": "MAX_ELIXER"
+		"default_item": "MAX_ELIXER_PKMN_CRSTL"
 	},
 	"WHIRL_ISLAND_B2F_MAX_REVIVE": {
 		"label": "Whirl Islands B2F - Item 3",
@@ -2069,7 +2069,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "WhirlIslandB2FMaxRevive",
-		"default_item": "MAX_REVIVE"
+		"default_item": "MAX_REVIVE_PKMN_CRSTL"
 	},
 	"WHIRL_ISLAND_NE_ULTRA_BALL": {
 		"label": "Whirl Islands 1F - Item in Northeast",
@@ -2077,7 +2077,7 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "WhirlIslandNEUltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"WHIRL_ISLAND_SW_ULTRA_BALL": {
 		"label": "Whirl Islands 1F - Item in Southwest",
@@ -2085,14 +2085,14 @@
 		"type": "itemball",
 		"tags": ["Overworld"],
 		"script": "WhirlIslandSWUltraBall",
-		"default_item": "ULTRA_BALL"
+		"default_item": "ULTRA_BALL_PKMN_CRSTL"
 	},
 	"RADIO_CARD": {
 		"label": "Radio Tower 1F - Radio Card from Quiz",
 		"flag": "EVENT_GOT_RADIO_CARD",
 		"type": "giveitem",
 		"tags": ["NPCGift", "Pokegear"],
-		"default_item": "RADIO_CARD",
+		"default_item": "RADIO_CARD_PKMN_CRSTL",
 		"script": "AP_NPC_RadioTower1F_RADIO_CARD"
 	},
 	"MAP_CARD": {
@@ -2100,7 +2100,7 @@
 		"flag": "EVENT_GOT_MAP_CARD",
 		"type": "giveitem",
 		"tags": ["NPCGift", "Pokegear"],
-		"default_item": "MAP_CARD",
+		"default_item": "MAP_CARD_PKMN_CRSTL",
 		"script": "AP_NPC_CherrygroveCity_MAP_CARD"
 	},
 	"EXPN_CARD": {
@@ -2108,7 +2108,7 @@
 		"flag": "EVENT_GOT_EXPN_CARD",
 		"type": "giveitem",
 		"tags": ["NPCGift", "Pokegear"],
-		"default_item": "EXPN_CARD",
+		"default_item": "EXPN_CARD_PKMN_CRSTL",
 		"script": "AP_LavRadioTower1F_EXPN_CARD"
 	},
 	"POKEGEAR": {
@@ -2116,7 +2116,7 @@
 		"flag": "EVENT_GOT_POKEGEAR",
 		"type": "giveitem",
 		"tags": ["NPCGift", "Pokegear"],
-		"default_item": "POKE_GEAR",
+		"default_item": "POKE_GEAR_PKMN_CRSTL",
 		"script": "AP_NPC_PlayersHouse1F_POKE_GEAR"
 	},
 	"POKEDEX": {
@@ -2124,7 +2124,7 @@
 		"flag": "EVENT_GOT_POKEDEX",
 		"type": "giveitem",
 		"tags": ["NPCGift", "Pokedex"],
-		"default_item": "POKE_DEX",
+		"default_item": "POKE_DEX_PKMN_CRSTL",
 		"script": "AP_NPC_MrPokemonsHouse_POKE_DEX"
 	},
 	"TM49_FURY_CUTTER": {
@@ -2132,7 +2132,7 @@
 		"flag": "EVENT_GOT_TM49_FURY_CUTTER",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_FURY_CUTTER",
+		"default_item": "TM_FURY_CUTTER_PKMN_CRSTL",
 		"script": "AP_NPC_AzaleaGym_TM_FURY_CUTTER"
 	},
 	"ROUTE_34_ILEX_FOREST_GATE_LASS": {
@@ -2140,7 +2140,7 @@
 		"flag": "EVENT_ROUTE_34_ILEX_FOREST_GATE_LASS",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "GS_BALL",
+		"default_item": "GS_BALL_PKMN_CRSTL",
 		"script": "AP_NPC_AzaleaTown_GS_BALL"
 	},
 	"EVERSTONE_FROM_BILLS_GRANDPA": {
@@ -2148,7 +2148,7 @@
 		"flag": "EVENT_GOT_EVERSTONE_FROM_BILLS_GRANDPA",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "EVERSTONE",
+		"default_item": "EVERSTONE_PKMN_CRSTL",
 		"script": "AP_NPC_BillsHouse_EVERSTONE"
 	},
 	"LEAF_STONE_FROM_BILLS_GRANDPA": {
@@ -2156,7 +2156,7 @@
 		"flag": "EVENT_GOT_LEAF_STONE_FROM_BILLS_GRANDPA",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "LEAF_STONE",
+		"default_item": "LEAF_STONE_PKMN_CRSTL",
 		"script": "AP_NPC_BillsHouse_LEAF_STONE"
 	},
 	"WATER_STONE_FROM_BILLS_GRANDPA": {
@@ -2164,7 +2164,7 @@
 		"flag": "EVENT_GOT_WATER_STONE_FROM_BILLS_GRANDPA",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "WATER_STONE",
+		"default_item": "WATER_STONE_PKMN_CRSTL",
 		"script": "AP_NPC_BillsHouse_WATER_STONE"
 	},
 	"FIRE_STONE_FROM_BILLS_GRANDPA": {
@@ -2172,7 +2172,7 @@
 		"flag": "EVENT_GOT_FIRE_STONE_FROM_BILLS_GRANDPA",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "FIRE_STONE",
+		"default_item": "FIRE_STONE_PKMN_CRSTL",
 		"script": "AP_NPC_BillsHouse_FIRE_STONE"
 	},
 	"THUNDERSTONE_FROM_BILLS_GRANDPA": {
@@ -2180,7 +2180,7 @@
 		"flag": "EVENT_GOT_THUNDERSTONE_FROM_BILLS_GRANDPA",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "THUNDERSTONE",
+		"default_item": "THUNDERSTONE_PKMN_CRSTL",
 		"script": "AP_NPC_BillsHouse_THUNDERSTONE"
 	},
 	"SPELL_TAG_FROM_SANTOS": {
@@ -2188,7 +2188,7 @@
 		"flag": "EVENT_GOT_SPELL_TAG_FROM_SANTOS",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "SPELL_TAG",
+		"default_item": "SPELL_TAG_PKMN_CRSTL",
 		"script": "AP_NPC_BlackthornCity_SPELL_TAG"
 	},
 	"TM19_GIGA_DRAIN": {
@@ -2196,7 +2196,7 @@
 		"flag": "EVENT_GOT_TM19_GIGA_DRAIN",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_GIGA_DRAIN",
+		"default_item": "TM_GIGA_DRAIN_PKMN_CRSTL",
 		"script": "AP_NPC_CeladonGym_TM_GIGA_DRAIN"
 	},
 	"TM03_CURSE": {
@@ -2204,7 +2204,7 @@
 		"flag": "EVENT_GOT_TM03_CURSE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_CURSE",
+		"default_item": "TM_CURSE_PKMN_CRSTL",
 		"script": "AP_NPC_CeladonMansionRoofHouse_TM_CURSE"
 	},
 	"CHARCOAL_IN_CHARCOAL_KILN": {
@@ -2212,7 +2212,7 @@
 		"flag": "EVENT_GOT_CHARCOAL_IN_CHARCOAL_KILN",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "CHARCOAL",
+		"default_item": "CHARCOAL_PKMN_CRSTL",
 		"script": "AP_NPC_CharcoalKiln_CHARCOAL"
 	},
 	"MYSTIC_WATER_IN_CHERRYGROVE": {
@@ -2220,7 +2220,7 @@
 		"flag": "EVENT_GOT_MYSTIC_WATER_IN_CHERRYGROVE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "MYSTIC_WATER",
+		"default_item": "MYSTIC_WATER_PKMN_CRSTL",
 		"script": "AP_NPC_CherrygroveCity_MYSTIC_WATER"
 	},
 	"HM02_FLY": {
@@ -2228,7 +2228,7 @@
 		"flag": "EVENT_GOT_HM02_FLY",
 		"type": "giveitem",
 		"tags": ["HM"],
-		"default_item": "HM_FLY",
+		"default_item": "HM_FLY_PKMN_CRSTL",
 		"script": "AP_NPC_CianwoodCity_HM_FLY"
 	},
 	"TM01_DYNAMICPUNCH": {
@@ -2236,7 +2236,7 @@
 		"flag": "EVENT_GOT_TM01_DYNAMICPUNCH",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_DYNAMICPUNCH",
+		"default_item": "TM_DYNAMICPUNCH_PKMN_CRSTL",
 		"script": "AP_NPC_CianwoodGym_TM_DYNAMICPUNCH"
 	},
 	"SECRETPOTION_FROM_PHARMACY": {
@@ -2244,7 +2244,7 @@
 		"flag": "EVENT_GOT_SECRETPOTION_FROM_PHARMACY",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "SECRETPOTION",
+		"default_item": "SECRETPOTION_PKMN_CRSTL",
 		"script": "AP_NPC_CianwoodPharmacy_SECRETPOTION"
 	},
 	"PASS_FROM_COPYCAT": {
@@ -2252,7 +2252,7 @@
 		"flag": "EVENT_GOT_PASS_FROM_COPYCAT",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "PASS",
+		"default_item": "PASS_PKMN_CRSTL",
 		"script": "AP_NPC_CopycatsHouse2F_PASS"
 	},
 	"HM03_SURF": {
@@ -2260,7 +2260,7 @@
 		"flag": "EVENT_GOT_HM03_SURF",
 		"type": "giveitem",
 		"tags": ["HM"],
-		"default_item": "HM_SURF",
+		"default_item": "HM_SURF_PKMN_CRSTL",
 		"script": "AP_NPC_DanceTheater_HM_SURF"
 	},
 	"BLACKGLASSES_IN_DARK_CAVE": {
@@ -2268,7 +2268,7 @@
 		"flag": "EVENT_GOT_BLACKGLASSES_IN_DARK_CAVE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "BLACKGLASSES",
+		"default_item": "BLACKGLASSES_PKMN_CRSTL",
 		"script": "AP_NPC_DarkCaveBlackthornEntrance_BLACKGLASSES"
 	},
 	"TM30_SHADOW_BALL": {
@@ -2276,7 +2276,7 @@
 		"flag": "EVENT_GOT_TM30_SHADOW_BALL",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_SHADOW_BALL",
+		"default_item": "TM_SHADOW_BALL_PKMN_CRSTL",
 		"script": "AP_NPC_EcruteakGym_TM_SHADOW_BALL"
 	},
 	"ITEMFINDER": {
@@ -2284,7 +2284,7 @@
 		"flag": "EVENT_GOT_ITEMFINDER",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "ITEMFINDER",
+		"default_item": "ITEMFINDER_PKMN_CRSTL",
 		"script": "AP_NPC_EcruteakItemfinderHouse_ITEMFINDER"
 	},
 	"EVERSTONE_FROM_ELM": {
@@ -2292,7 +2292,7 @@
 		"flag": "EVENT_GOT_EVERSTONE_FROM_ELM",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "EVERSTONE",
+		"default_item": "EVERSTONE_PKMN_CRSTL",
 		"script": "AP_NPC_ElmsLab_EVERSTONE"
 	},
 	"MASTER_BALL_FROM_ELM": {
@@ -2300,7 +2300,7 @@
 		"flag": "EVENT_GOT_MASTER_BALL_FROM_ELM",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "MASTER_BALL",
+		"default_item": "MASTER_BALL_PKMN_CRSTL",
 		"script": "AP_NPC_ElmsLab_MASTER_BALL"
 	},
 	"SS_TICKET_FROM_ELM": {
@@ -2308,7 +2308,7 @@
 		"flag": "EVENT_GOT_SS_TICKET_FROM_ELM",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "S_S_TICKET",
+		"default_item": "S_S_TICKET_PKMN_CRSTL",
 		"script": "AP_NPC_ElmsLab_S_S_TICKET"
 	},
 	"METAL_COAT_FROM_GRANDPA_ON_SS_AQUA": {
@@ -2316,7 +2316,7 @@
 		"flag": "EVENT_GOT_METAL_COAT_FROM_GRANDPA_ON_SS_AQUA",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "METAL_COAT",
+		"default_item": "METAL_COAT_PKMN_CRSTL",
 		"script": "AP_NPC_FastShipCabins_SE_SSE_CaptainsCabin_METAL_COAT"
 	},
 	"TM06_TOXIC": {
@@ -2324,7 +2324,7 @@
 		"flag": "EVENT_GOT_TM06_TOXIC",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_TOXIC",
+		"default_item": "TM_TOXIC_PKMN_CRSTL",
 		"script": "AP_NPC_FuchsiaGym_TM_TOXIC"
 	},
 	"BICYCLE": {
@@ -2332,7 +2332,7 @@
 		"flag": "EVENT_GOT_BICYCLE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "BICYCLE",
+		"default_item": "BICYCLE_PKMN_CRSTL",
 		"script": "AP_NPC_GoldenrodBikeShop_BICYCLE"
 	},
 	"SQUIRTBOTTLE": {
@@ -2340,7 +2340,7 @@
 		"flag": "EVENT_GOT_SQUIRTBOTTLE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "SQUIRTBOTTLE",
+		"default_item": "SQUIRTBOTTLE_PKMN_CRSTL",
 		"script": "AP_NPC_GoldenrodFlowerShop_SQUIRTBOTTLE"
 	},
 	"TM45_ATTRACT": {
@@ -2348,7 +2348,7 @@
 		"flag": "EVENT_GOT_TM45_ATTRACT",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_ATTRACT",
+		"default_item": "TM_ATTRACT_PKMN_CRSTL",
 		"script": "AP_NPC_GoldenrodGym_TM_ATTRACT"
 	},
 	"GS_BALL_FROM_GOLDENROD_POKEMON_CENTER": {
@@ -2356,7 +2356,7 @@
 		"flag": "EVENT_GOT_GS_BALL_FROM_GOLDENROD_POKEMON_CENTER",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "GS_BALL",
+		"default_item": "GS_BALL_PKMN_CRSTL",
 		"script": "AP_NPC_GoldenrodPokecenter1F_GS_BALL"
 	},
 	"RECEIVED_CARD_KEY": {
@@ -2364,7 +2364,7 @@
 		"flag": "EVENT_RECEIVED_CARD_KEY",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "CARD_KEY",
+		"default_item": "CARD_KEY_PKMN_CRSTL",
 		"script": "AP_NPC_GoldenrodUndergroundWarehouse_CARD_KEY"
 	},
 	"HM01_CUT": {
@@ -2372,7 +2372,7 @@
 		"flag": "EVENT_GOT_HM01_CUT",
 		"type": "giveitem",
 		"tags": ["HM"],
-		"default_item": "HM_CUT",
+		"default_item": "HM_CUT_PKMN_CRSTL",
 		"script": "AP_NPC_IlexForest_HM_CUT"
 	},
 	"TM02_HEADBUTT": {
@@ -2380,7 +2380,7 @@
 		"flag": "EVENT_GOT_TM02_HEADBUTT",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_HEADBUTT",
+		"default_item": "TM_HEADBUTT_PKMN_CRSTL",
 		"script": "AP_NPC_IlexForest_TM_HEADBUTT"
 	},
 	"KURT_GAVE_YOU_LURE_BALL": {
@@ -2388,7 +2388,7 @@
 		"flag": "EVENT_KURT_GAVE_YOU_LURE_BALL",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "LURE_BALL",
+		"default_item": "LURE_BALL_PKMN_CRSTL",
 		"script": "AP_NPC_KurtsHouse_LURE_BALL"
 	},
 	"BLACKBELT_FROM_WESLEY": {
@@ -2396,7 +2396,7 @@
 		"flag": "EVENT_GOT_BLACKBELT_FROM_WESLEY",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "BLACKBELT_I",
+		"default_item": "BLACKBELT_I_PKMN_CRSTL",
 		"script": "AP_NPC_LakeOfRage_BLACKBELT_I"
 	},
 	"TM10_HIDDEN_POWER": {
@@ -2404,7 +2404,7 @@
 		"flag": "EVENT_GOT_TM10_HIDDEN_POWER",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_HIDDEN_POWER",
+		"default_item": "TM_HIDDEN_POWER_PKMN_CRSTL",
 		"script": "AP_NPC_LakeOfRageHiddenPowerHouse_TM_HIDDEN_POWER"
 	},
 	"TM16_ICY_WIND": {
@@ -2412,7 +2412,7 @@
 		"flag": "EVENT_GOT_TM16_ICY_WIND",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_ICY_WIND",
+		"default_item": "TM_ICY_WIND_PKMN_CRSTL",
 		"script": "AP_NPC_MahoganyGym_TM_ICY_WIND"
 	},
 	"MYSTERY_EGG": {
@@ -2420,7 +2420,7 @@
 		"flag": "EVENT_GOT_MYSTERY_EGG",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "MYSTERY_EGG",
+		"default_item": "MYSTERY_EGG_PKMN_CRSTL",
 		"script": "AP_NPC_MrPokemonsHouse_MYSTERY_EGG"
 	},
 	"EXP_SHARE": {
@@ -2428,7 +2428,7 @@
 		"flag": "EVENT_GOT_EXP_SHARE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "EXP_SHARE",
+		"default_item": "EXP_SHARE_PKMN_CRSTL",
 		"script": "AP_NPC_MrPokemonsHouse_EXP_SHARE"
 	},
 	"TM29_PSYCHIC": {
@@ -2436,7 +2436,7 @@
 		"flag": "EVENT_GOT_TM29_PSYCHIC",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_PSYCHIC_M",
+		"default_item": "TM_PSYCHIC_M_PKMN_CRSTL",
 		"script": "AP_NPC_MrPsychicsHouse_TM_PSYCHIC_M"
 	},
 	"QUICK_CLAW": {
@@ -2444,7 +2444,7 @@
 		"flag": "EVENT_GOT_QUICK_CLAW",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "QUICK_CLAW",
+		"default_item": "QUICK_CLAW_PKMN_CRSTL",
 		"script": "AP_NPC_NationalPark_QUICK_CLAW"
 	},
 	"HM04_STRENGTH": {
@@ -2452,7 +2452,7 @@
 		"flag": "EVENT_GOT_HM04_STRENGTH",
 		"type": "giveitem",
 		"tags": ["HM"],
-		"default_item": "HM_STRENGTH",
+		"default_item": "HM_STRENGTH_PKMN_CRSTL",
 		"script": "AP_NPC_OlivineCafe_HM_STRENGTH"
 	},
 	"GOOD_ROD": {
@@ -2460,7 +2460,7 @@
 		"flag": "EVENT_GOT_GOOD_ROD",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "GOOD_ROD",
+		"default_item": "GOOD_ROD_PKMN_CRSTL",
 		"script": "AP_NPC_OlivineGoodRodHouse_GOOD_ROD"
 	},
 	"TM23_IRON_TAIL": {
@@ -2468,7 +2468,7 @@
 		"flag": "EVENT_GOT_TM23_IRON_TAIL",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_IRON_TAIL",
+		"default_item": "TM_IRON_TAIL_PKMN_CRSTL",
 		"script": "AP_NPC_OlivineGym_TM_IRON_TAIL"
 	},
 	"PROTEIN_FROM_HUEY": {
@@ -2476,7 +2476,7 @@
 		"flag": "EVENT_GOT_PROTEIN_FROM_HUEY",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "PROTEIN",
+		"default_item": "PROTEIN_PKMN_CRSTL",
 		"script": "AP_NPC_OlivineLighthouse2F_PROTEIN"
 	},
 	"SILVER_WING": {
@@ -2484,7 +2484,7 @@
 		"flag": "EVENT_GOT_SILVER_WING",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "SILVER_WING",
+		"default_item": "SILVER_WING_PKMN_CRSTL",
 		"script": "AP_NPC_PewterCity_SILVER_WING"
 	},
 	"LISTENED_TO_FAN_CLUB_PRESIDENT": {
@@ -2492,7 +2492,7 @@
 		"flag": "EVENT_LISTENED_TO_FAN_CLUB_PRESIDENT",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "RARE_CANDY",
+		"default_item": "RARE_CANDY_PKMN_CRSTL",
 		"script": "AP_NPC_PokemonFanClub_RARE_CANDY"
 	},
 	"LOST_ITEM_FROM_FAN_CLUB": {
@@ -2500,7 +2500,7 @@
 		"flag": "EVENT_GOT_LOST_ITEM_FROM_FAN_CLUB",
 		"type": "giveitem",
 		"tags": ["KeyItem"],
-		"default_item": "LOST_ITEM",
+		"default_item": "LOST_ITEM_PKMN_CRSTL",
 		"script": "AP_NPC_PokemonFanClub_LOST_ITEM"
 	},
 	"TM07_ZAP_CANNON": {
@@ -2508,7 +2508,7 @@
 		"flag": "EVENT_GOT_TM07_ZAP_CANNON",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_ZAP_CANNON",
+		"default_item": "TM_ZAP_CANNON_PKMN_CRSTL",
 		"script": "AP_NPC_PowerPlant_TM_ZAP_CANNON"
 	},
 	"BUENA_BLUE_CARD": {
@@ -2516,7 +2516,7 @@
 		"flag": "EVENT_MET_BUENA",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "BLUE_CARD",
+		"default_item": "BLUE_CARD_PKMN_CRSTL",
 		"script": "AP_NPC_RadioTower2F_BLUE_CARD"
 	},
 	"SUNNY_DAY_FROM_RADIO_TOWER": {
@@ -2524,7 +2524,7 @@
 		"flag": "EVENT_GOT_SUNNY_DAY_FROM_RADIO_TOWER",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_SUNNY_DAY",
+		"default_item": "TM_SUNNY_DAY_PKMN_CRSTL",
 		"script": "AP_NPC_RadioTower3F_TM_SUNNY_DAY"
 	},
 	"PINK_BOW_FROM_MARY": {
@@ -2532,7 +2532,7 @@
 		"flag": "EVENT_GOT_PINK_BOW_FROM_MARY",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "PINK_BOW",
+		"default_item": "PINK_BOW_PKMN_CRSTL",
 		"script": "AP_NPC_RadioTower4F_PINK_BOW"
 	},
 	"BEAT_ROCKET_EXECUTIVEM_3": {
@@ -2540,7 +2540,7 @@
 		"flag": "EVENT_BEAT_ROCKET_EXECUTIVEM_3",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "BASEMENT_KEY",
+		"default_item": "BASEMENT_KEY_PKMN_CRSTL",
 		"script": "AP_NPC_RadioTower5F_BASEMENT_KEY"
 	},
 	"CLEAR_BELL": {
@@ -2548,7 +2548,7 @@
 		"flag": "EVENT_GOT_CLEAR_BELL",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "CLEAR_BELL",
+		"default_item": "CLEAR_BELL_PKMN_CRSTL",
 		"script": "AP_NPC_RadioTower5F_CLEAR_BELL"
 	},
 	"SUPER_ROD": {
@@ -2556,7 +2556,7 @@
 		"flag": "EVENT_GOT_SUPER_ROD",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "SUPER_ROD",
+		"default_item": "SUPER_ROD_PKMN_CRSTL",
 		"script": "AP_NPC_Route12SuperRodHouse_SUPER_ROD"
 	},
 	"CLEARED_NUGGET_BRIDGE": {
@@ -2564,7 +2564,7 @@
 		"flag": "EVENT_CLEARED_NUGGET_BRIDGE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "NUGGET",
+		"default_item": "NUGGET_PKMN_CRSTL",
 		"script": "AP_NPC_Route25_NUGGET"
 	},
 	"TM37_SANDSTORM": {
@@ -2572,7 +2572,7 @@
 		"flag": "EVENT_GOT_TM37_SANDSTORM",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_SANDSTORM",
+		"default_item": "TM_SANDSTORM_PKMN_CRSTL",
 		"script": "AP_NPC_Route27SandstormHouse_TM_SANDSTORM"
 	},
 	"TM47_STEEL_WING": {
@@ -2580,7 +2580,7 @@
 		"flag": "EVENT_GOT_TM47_STEEL_WING",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_STEEL_WING",
+		"default_item": "TM_STEEL_WING_PKMN_CRSTL",
 		"script": "AP_NPC_Route28SteelWingHouse_TM_STEEL_WING"
 	},
 	"PINK_BOW_FROM_TUSCANY": {
@@ -2588,7 +2588,7 @@
 		"flag": "EVENT_GOT_PINK_BOW_FROM_TUSCANY",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "PINK_BOW",
+		"default_item": "PINK_BOW_PKMN_CRSTL",
 		"script": "AP_NPC_Route29_PINK_BOW"
 	},
 	"NUGGET_FROM_GUY": {
@@ -2596,7 +2596,7 @@
 		"flag": "EVENT_GOT_NUGGET_FROM_GUY",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "NUGGET",
+		"default_item": "NUGGET_PKMN_CRSTL",
 		"script": "AP_NPC_Route2NuggetHouse_NUGGET"
 	},
 	"HP_UP_FROM_JOEY": {
@@ -2604,7 +2604,7 @@
 		"flag": "EVENT_GOT_HP_UP_FROM_JOEY",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "HP_UP",
+		"default_item": "HP_UP_PKMN_CRSTL",
 		"script": "AP_NPC_Route30_HP_UP"
 	},
 	"BERRY_FROM_ROUTE_30_HOUSE": {
@@ -2612,7 +2612,7 @@
 		"flag": "EVENT_GOT_BERRY_FROM_ROUTE_30_HOUSE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "BERRY",
+		"default_item": "BERRY_PKMN_CRSTL",
 		"script": "AP_NPC_Route30BerryHouse_BERRY"
 	},
 	"TM50_NIGHTMARE": {
@@ -2620,7 +2620,7 @@
 		"flag": "EVENT_GOT_TM50_NIGHTMARE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_NIGHTMARE",
+		"default_item": "TM_NIGHTMARE_PKMN_CRSTL",
 		"script": "AP_NPC_Route31_TM_NIGHTMARE"
 	},
 	"MIRACLE_SEED_IN_ROUTE_32": {
@@ -2628,7 +2628,7 @@
 		"flag": "EVENT_GOT_MIRACLE_SEED_IN_ROUTE_32",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "MIRACLE_SEED",
+		"default_item": "MIRACLE_SEED_PKMN_CRSTL",
 		"script": "AP_NPC_Route32_MIRACLE_SEED"
 	},
 	"TM05_ROAR": {
@@ -2636,7 +2636,7 @@
 		"flag": "EVENT_GOT_TM05_ROAR",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_ROAR",
+		"default_item": "TM_ROAR_PKMN_CRSTL",
 		"script": "AP_NPC_Route32_TM_ROAR"
 	},
 	"POISON_BARB_FROM_FRIEDA": {
@@ -2644,7 +2644,7 @@
 		"flag": "EVENT_GOT_POISON_BARB_FROM_FRIEDA",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "POISON_BARB",
+		"default_item": "POISON_BARB_PKMN_CRSTL",
 		"script": "AP_NPC_Route32_POISON_BARB"
 	},
 	"OLD_ROD": {
@@ -2652,7 +2652,7 @@
 		"flag": "EVENT_GOT_OLD_ROD",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "OLD_ROD",
+		"default_item": "OLD_ROD_PKMN_CRSTL",
 		"script": "AP_NPC_Route32Pokecenter1F_OLD_ROD"
 	},
 	"GINA_GAVE_LEAF_STONE": {
@@ -2660,7 +2660,7 @@
 		"flag": "EVENT_GINA_GAVE_LEAF_STONE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "LEAF_STONE",
+		"default_item": "LEAF_STONE_PKMN_CRSTL",
 		"script": "AP_NPC_Route34_LEAF_STONE"
 	},
 	"SOFT_SAND_FROM_KATE": {
@@ -2668,7 +2668,7 @@
 		"flag": "EVENT_GOT_SOFT_SAND_FROM_KATE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "SOFT_SAND",
+		"default_item": "SOFT_SAND_PKMN_CRSTL",
 		"script": "AP_NPC_Route34_SOFT_SAND"
 	},
 	"TM12_SWEET_SCENT": {
@@ -2676,7 +2676,7 @@
 		"flag": "EVENT_GOT_TM12_SWEET_SCENT",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_SWEET_SCENT",
+		"default_item": "TM_SWEET_SCENT_PKMN_CRSTL",
 		"script": "AP_NPC_Route34IlexForestGate_TM_SWEET_SCENT"
 	},
 	"HP_UP_FROM_RANDY": {
@@ -2684,7 +2684,7 @@
 		"flag": "EVENT_GOT_HP_UP_FROM_RANDY",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "HP_UP",
+		"default_item": "HP_UP_PKMN_CRSTL",
 		"script": "AP_NPC_Route35GoldenrodGate_HP_UP"
 	},
 	"TM08_ROCK_SMASH": {
@@ -2692,7 +2692,7 @@
 		"flag": "EVENT_GOT_TM08_ROCK_SMASH",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_ROCK_SMASH",
+		"default_item": "TM_ROCK_SMASH_PKMN_CRSTL",
 		"script": "AP_NPC_Route36_TM_ROCK_SMASH"
 	},
 	"ALAN_GAVE_FIRE_STONE": {
@@ -2700,7 +2700,7 @@
 		"flag": "EVENT_ALAN_GAVE_FIRE_STONE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "FIRE_STONE",
+		"default_item": "FIRE_STONE_PKMN_CRSTL",
 		"script": "AP_NPC_Route36_FIRE_STONE"
 	},
 	"HARD_STONE_FROM_ARTHUR": {
@@ -2708,7 +2708,7 @@
 		"flag": "EVENT_GOT_HARD_STONE_FROM_ARTHUR",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "HARD_STONE",
+		"default_item": "HARD_STONE_PKMN_CRSTL",
 		"script": "AP_NPC_Route36_HARD_STONE"
 	},
 	"MAGNET_FROM_SUNNY": {
@@ -2716,7 +2716,7 @@
 		"flag": "EVENT_GOT_MAGNET_FROM_SUNNY",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "MAGNET",
+		"default_item": "MAGNET_PKMN_CRSTL",
 		"script": "AP_NPC_Route37_MAGNET"
 	},
 	"DANA_GAVE_THUNDERSTONE": {
@@ -2724,7 +2724,7 @@
 		"flag": "EVENT_DANA_GAVE_THUNDERSTONE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "THUNDERSTONE",
+		"default_item": "THUNDERSTONE_PKMN_CRSTL",
 		"script": "AP_NPC_Route38_THUNDERSTONE"
 	},
 	"TM13_SNORE_FROM_MOOMOO_FARM": {
@@ -2732,7 +2732,7 @@
 		"flag": "EVENT_GOT_TM13_SNORE_FROM_MOOMOO_FARM",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_SNORE",
+		"default_item": "TM_SNORE_PKMN_CRSTL",
 		"script": "AP_NPC_Route39Farmhouse_TM_SNORE"
 	},
 	"SHARP_BEAK_FROM_MONICA": {
@@ -2740,7 +2740,7 @@
 		"flag": "EVENT_GOT_SHARP_BEAK_FROM_MONICA",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "SHARP_BEAK",
+		"default_item": "SHARP_BEAK_PKMN_CRSTL",
 		"script": "AP_NPC_Route40_SHARP_BEAK"
 	},
 	"TULLY_GAVE_WATER_STONE": {
@@ -2748,7 +2748,7 @@
 		"flag": "EVENT_TULLY_GAVE_WATER_STONE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "WATER_STONE",
+		"default_item": "WATER_STONE_PKMN_CRSTL",
 		"script": "AP_NPC_Route42_WATER_STONE"
 	},
 	"TIFFANY_GAVE_PINK_BOW": {
@@ -2756,7 +2756,7 @@
 		"flag": "EVENT_TIFFANY_GAVE_PINK_BOW",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "PINK_BOW",
+		"default_item": "PINK_BOW_PKMN_CRSTL",
 		"script": "AP_NPC_Route43_PINK_BOW"
 	},
 	"TM36_SLUDGE_BOMB": {
@@ -2764,7 +2764,7 @@
 		"flag": "EVENT_GOT_TM36_SLUDGE_BOMB",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_SLUDGE_BOMB",
+		"default_item": "TM_SLUDGE_BOMB_PKMN_CRSTL",
 		"script": "AP_NPC_Route43Gate_TM_SLUDGE_BOMB"
 	},
 	"CARBOS_FROM_VANCE": {
@@ -2772,7 +2772,7 @@
 		"flag": "EVENT_GOT_CARBOS_FROM_VANCE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "CARBOS",
+		"default_item": "CARBOS_PKMN_CRSTL",
 		"script": "AP_NPC_Route44_CARBOS"
 	},
 	"CLEANSE_TAG": {
@@ -2780,7 +2780,7 @@
 		"flag": "EVENT_GOT_CLEANSE_TAG",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "CLEANSE_TAG",
+		"default_item": "CLEANSE_TAG_PKMN_CRSTL",
 		"script": "AP_NPC_Route5CleanseTagHouse_CLEANSE_TAG"
 	},
 	"UP_GRADE": {
@@ -2788,7 +2788,7 @@
 		"flag": "EVENT_GOT_UP_GRADE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "UP_GRADE",
+		"default_item": "UP_GRADE_PKMN_CRSTL",
 		"script": "AP_NPC_SilphCo1F_UP_GRADE"
 	},
 	"KINGS_ROCK_IN_SLOWPOKE_WELL": {
@@ -2796,7 +2796,7 @@
 		"flag": "EVENT_GOT_KINGS_ROCK_IN_SLOWPOKE_WELL",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "KINGS_ROCK",
+		"default_item": "KINGS_ROCK_PKMN_CRSTL",
 		"script": "AP_NPC_SlowpokeWellB2F_KINGS_ROCK"
 	},
 	"HM05_FLASH": {
@@ -2804,7 +2804,7 @@
 		"flag": "EVENT_GOT_HM05_FLASH",
 		"type": "giveitem",
 		"tags": ["HM"],
-		"default_item": "HM_FLASH",
+		"default_item": "HM_FLASH_PKMN_CRSTL",
 		"script": "AP_NPC_SproutTower3F_HM_FLASH"
 	},
 	"HM06_WHIRLPOOL": {
@@ -2812,7 +2812,7 @@
 		"flag": "EVENT_GOT_HM06_WHIRLPOOL",
 		"type": "giveitem",
 		"tags": ["HM"],
-		"default_item": "HM_WHIRLPOOL",
+		"default_item": "HM_WHIRLPOOL_PKMN_CRSTL",
 		"script": "AP_NPC_TeamRocketBaseB2F_HM_WHIRLPOOL"
 	},
 	"HP_UP_FROM_VERMILION_GUY": {
@@ -2820,7 +2820,7 @@
 		"flag": "EVENT_GOT_HP_UP_FROM_VERMILION_GUY",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "HP_UP",
+		"default_item": "HP_UP_PKMN_CRSTL",
 		"script": "AP_NPC_VermilionCity_HP_UP"
 	},
 	"TM31_MUD_SLAP": {
@@ -2828,7 +2828,7 @@
 		"flag": "EVENT_GOT_TM31_MUD_SLAP",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_MUD_SLAP",
+		"default_item": "TM_MUD_SLAP_PKMN_CRSTL",
 		"script": "AP_NPC_VioletGym_TM_MUD_SLAP"
 	},
 	"TM42_DREAM_EATER": {
@@ -2836,7 +2836,7 @@
 		"flag": "EVENT_GOT_TM42_DREAM_EATER",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_DREAM_EATER",
+		"default_item": "TM_DREAM_EATER_PKMN_CRSTL",
 		"script": "AP_NPC_ViridianCity_TM_DREAM_EATER"
 	},
 	"TM24_DRAGONBREATH": {
@@ -2844,7 +2844,7 @@
 		"flag": "EVENT_GOT_TM24_DRAGONBREATH",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "TM_DRAGONBREATH",
+		"default_item": "TM_DRAGONBREATH_PKMN_CRSTL",
 		"script": "AP_NPC_BlackthornGym_TM_DRAGONBREATH"
 	},
 	"POTION_FROM_ELMS_AIDE": {
@@ -2852,7 +2852,7 @@
 		"flag": "EVENT_GOT_POTION_FROM_ELMS_AIDE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "POTION",
+		"default_item": "POTION_PKMN_CRSTL",
 		"script": "AP_NPC_ElmsLab_POTION"
 	},
 	"POKE_BALL_FROM_ELMS_AIDE": {
@@ -2860,7 +2860,7 @@
 		"flag": "EVENT_GOT_POKE_BALL_FROM_ELMS_AIDE",
 		"type": "giveitem",
 		"tags": ["NPCGift"],
-		"default_item": "POKE_BALL",
+		"default_item": "POKE_BALL_PKMN_CRSTL",
 		"script": "AP_NPC_ElmsLab_POKE_BALL"
 	},
 	"ZEPHYR_BADGE_FROM_FALKNER": {
@@ -2868,7 +2868,7 @@
 		"flag": "EVENT_ZEPHYR_BADGE_FROM_FALKNER",
 		"type": "giveitem",
 		"tags": ["Badge", "EarlyBadge"],
-		"default_item": "ZEPHYR_BADGE",
+		"default_item": "ZEPHYR_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_VioletGym_ZEPHYR_BADGE"
 	},
 	"HIVE_BADGE_FROM_BUGSY": {
@@ -2876,7 +2876,7 @@
 		"flag": "EVENT_HIVE_BADGE_FROM_BUGSY",
 		"type": "giveitem",
 		"tags": ["Badge", "EarlyBadge"],
-		"default_item": "HIVE_BADGE",
+		"default_item": "HIVE_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_AzaleaGym_HIVE_BADGE"
 	},
 	"PLAIN_BADGE_FROM_WHITNEY": {
@@ -2884,7 +2884,7 @@
 		"flag": "EVENT_PLAIN_BADGE_FROM_WHITNEY",
 		"type": "giveitem",
 		"tags": ["Badge", "EarlyBadge"],
-		"default_item": "PLAIN_BADGE",
+		"default_item": "PLAIN_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_GoldenrodGym_PLAIN_BADGE"
 	},
 	"FOG_BADGE_FROM_MORTY": {
@@ -2892,7 +2892,7 @@
 		"flag": "EVENT_FOG_BADGE_FROM_MORTY",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "FOG_BADGE",
+		"default_item": "FOG_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_EcruteakGym_FOG_BADGE"
 	},
 	"STORM_BADGE_FROM_CHUCK": {
@@ -2900,7 +2900,7 @@
 		"flag": "EVENT_STORM_BADGE_FROM_CHUCK",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "STORM_BADGE",
+		"default_item": "STORM_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_CianwoodGym_STORM_BADGE"
 	},
 	"MINERAL_BADGE_FROM_JASMINE": {
@@ -2908,7 +2908,7 @@
 		"flag": "EVENT_MINERAL_BADGE_FROM_JASMINE",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "MINERAL_BADGE",
+		"default_item": "MINERAL_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_OlivineGym_MINERAL_BADGE"
 	},
 	"GLACIER_BADGE_FROM_PRYCE": {
@@ -2916,7 +2916,7 @@
 		"flag": "EVENT_GLACIER_BADGE_FROM_PRYCE",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "GLACIER_BADGE",
+		"default_item": "GLACIER_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_MahoganyGym_GLACIER_BADGE"
 	},
 	"RISING_BADGE_FROM_CLAIR": {
@@ -2924,7 +2924,7 @@
 		"flag": "EVENT_RISING_BADGE_FROM_CLAIR",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "RISING_BADGE",
+		"default_item": "RISING_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_BlackthornGym_RISING_BADGE"
 	},
 	"BOULDER_BADGE_FROM_BROCK": {
@@ -2932,7 +2932,7 @@
 		"flag": "EVENT_BOULDER_BADGE_FROM_BROCK",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "BOULDER_BADGE",
+		"default_item": "BOULDER_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_PewterGym_BOULDER_BADGE"
 	},
 	"CASCADE_BADGE_FROM_MISTY": {
@@ -2940,7 +2940,7 @@
 		"flag": "EVENT_CASCADE_BADGE_FROM_MISTY",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "CASCADE_BADGE",
+		"default_item": "CASCADE_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_CeruleanGym_CASCADE_BADGE"
 	},
 	"THUNDER_BADGE_FROM_LTSURGE": {
@@ -2948,7 +2948,7 @@
 		"flag": "EVENT_THUNDER_BADGE_FROM_LTSURGE",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "THUNDER_BADGE",
+		"default_item": "THUNDER_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_VermillionGym_THUNDER_BADGE"
 	},
 	"RAINBOW_BADGE_FROM_ERIKA": {
@@ -2956,7 +2956,7 @@
 		"flag": "EVENT_RAINBOW_BADGE_FROM_ERIKA",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "RAINBOW_BADGE",
+		"default_item": "RAINBOW_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_CeladonGym_RAINBOW_BADGE"
 	},
 	"SOUL_BADGE_FROM_JANINE": {
@@ -2964,7 +2964,7 @@
 		"flag": "EVENT_SOUL_BADGE_FROM_JANINE",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "SOUL_BADGE",
+		"default_item": "SOUL_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_FuschiaGym_SOUL_BADGE"
 	},
 	"MARSH_BADGE_FROM_SABRINA": {
@@ -2972,7 +2972,7 @@
 		"flag": "EVENT_MARSH_BADGE_FROM_SABRINA",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "MARSH_BADGE",
+		"default_item": "MARSH_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_SaffronGym_MARSH_BADGE"
 	},
 	"VOLCANO_BADGE_FROM_BLAINE": {
@@ -2980,7 +2980,7 @@
 		"flag": "EVENT_VOLCANO_BADGE_FROM_BLAINE",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "VOLCANO_BADGE",
+		"default_item": "VOLCANO_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_SeafoamGym_VOLCANO_BADGE"
 	},
 	"EARTH_BADGE_FROM_BLUE": {
@@ -2988,7 +2988,7 @@
 		"flag": "EVENT_EARTH_BADGE_FROM_BLUE",
 		"type": "giveitem",
 		"tags": ["Badge"],
-		"default_item": "EARTH_BADGE",
+		"default_item": "EARTH_BADGE_PKMN_CRSTL",
 		"script": "AP_Badge_ViridianGym_EARTH_BADGE"
 	},
 	"RED_SCALE": {
@@ -2996,7 +2996,7 @@
 		"flag": "EVENT_GOT_RED_SCALE",
 		"type": "giveitem",
 		"tags": ["KeyItem"],
-		"default_item": "RED_SCALE",
+		"default_item": "RED_SCALE_PKMN_CRSTL",
 		"script": "AP_KeyItem_LakeOfRage_RED_SCALE"
 	},
 	"ITEM_FROM_TWINS_AMY_AND_MAY": {
@@ -3004,7 +3004,7 @@
 		"flag": "EVENT_ITEM_FROM_TWINS_AMY_AND_MAY",
 		"type": "trainer",
 		"tags": ["Trainersanity"],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_TWINS_AMYANDMAY1"
 	},
 	"ITEM_FROM_BUG_CATCHER_BENNY": {
@@ -3014,7 +3014,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BUG_CATCHER_BUG_CATCHER_BENNY"
 	},
 	"ITEM_FROM_BUG_CATCHER_AL": {
@@ -3024,7 +3024,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BUG_CATCHER_AL"
 	},
 	"ITEM_FROM_BUG_CATCHER_JOSH": {
@@ -3034,7 +3034,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BUG_CATCHER_JOSH"
 	},
 	"ITEM_FROM_COOLTRAINERM_PAUL": {
@@ -3044,7 +3044,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_PAUL"
 	},
 	"ITEM_FROM_COOLTRAINERM_MIKE": {
@@ -3054,7 +3054,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_MIKE"
 	},
 	"ITEM_FROM_COOLTRAINERF_LOLA": {
@@ -3064,7 +3064,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_LOLA"
 	},
 	"ITEM_FROM_COOLTRAINERM_CODY": {
@@ -3074,7 +3074,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_CODY"
 	},
 	"ITEM_FROM_COOLTRAINERF_FRAN": {
@@ -3084,7 +3084,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_FRAN"
 	},
 	"ITEM_FROM_LASS_MICHELLE": {
@@ -3094,7 +3094,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_LASS_MICHELLE"
 	},
 	"ITEM_FROM_PICNICKER_TANYA": {
@@ -3104,7 +3104,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_TANYA"
 	},
 	"ITEM_FROM_BEAUTY_JULIA": {
@@ -3114,7 +3114,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BEAUTY_JULIA"
 	},
 	"ITEM_FROM_TWINS_JO_AND_ZOE": {
@@ -3124,7 +3124,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_TWINS_JOANDZOE1"
 	},
 	"ITEM_FROM_SWIMMERF_DIANA": {
@@ -3134,7 +3134,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_DIANA"
 	},
 	"ITEM_FROM_SWIMMERF_BRIANA": {
@@ -3144,7 +3144,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_BRIANA"
 	},
 	"ITEM_FROM_SWIMMERM_PARKER": {
@@ -3154,7 +3154,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_PARKER"
 	},
 	"ITEM_FROM_BLACKBELT_YOSHI": {
@@ -3164,7 +3164,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BLACKBELT_T_YOSHI"
 	},
 	"ITEM_FROM_BLACKBELT_LAO": {
@@ -3174,7 +3174,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BLACKBELT_T_LAO"
 	},
 	"ITEM_FROM_BLACKBELT_NOB": {
@@ -3184,7 +3184,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BLACKBELT_T_NOB"
 	},
 	"ITEM_FROM_BLACKBELT_LUNG": {
@@ -3194,7 +3194,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BLACKBELT_T_LUNG"
 	},
 	"ITEM_FROM_KIMONO_GIRL_NAOKO": {
@@ -3204,7 +3204,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_KIMONO_GIRL_NAOKO"
 	},
 	"ITEM_FROM_KIMONO_GIRL_SAYO": {
@@ -3214,7 +3214,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_KIMONO_GIRL_SAYO"
 	},
 	"ITEM_FROM_KIMONO_GIRL_ZUKI": {
@@ -3224,7 +3224,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_KIMONO_GIRL_ZUKI"
 	},
 	"ITEM_FROM_KIMONO_GIRL_KUNI": {
@@ -3234,7 +3234,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_KIMONO_GIRL_KUNI"
 	},
 	"ITEM_FROM_KIMONO_GIRL_MIKI": {
@@ -3244,7 +3244,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_KIMONO_GIRL_MIKI"
 	},
 	"ITEM_FROM_COOLTRAINERM_DARIN": {
@@ -3254,7 +3254,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_DARIN"
 	},
 	"ITEM_FROM_COOLTRAINERF_CARA": {
@@ -3264,7 +3264,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_CARA"
 	},
 	"ITEM_FROM_TWINS_LEA_AND_PIA": {
@@ -3274,7 +3274,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_TWINS_LEAANDPIA1"
 	},
 	"ITEM_FROM_SAGE_JEFFREY": {
@@ -3284,7 +3284,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAGE_JEFFREY"
 	},
 	"ITEM_FROM_SAGE_PING": {
@@ -3294,7 +3294,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAGE_PING"
 	},
 	"ITEM_FROM_MEDIUM_MARTHA": {
@@ -3304,7 +3304,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_MEDIUM_MARTHA"
 	},
 	"ITEM_FROM_MEDIUM_GRACE": {
@@ -3314,7 +3314,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_MEDIUM_GRACE"
 	},
 	"ITEM_FROM_SAILOR_JEFF": {
@@ -3324,7 +3324,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAILOR_JEFF"
 	},
 	"ITEM_FROM_PICNICKER_DEBRA": {
@@ -3334,7 +3334,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_DEBRA"
 	},
 	"ITEM_FROM_JUGGLER_FRITZ": {
@@ -3344,7 +3344,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_JUGGLER_FRITZ"
 	},
 	"ITEM_FROM_SAILOR_GARRETT": {
@@ -3354,7 +3354,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAILOR_GARRETT"
 	},
 	"ITEM_FROM_FISHER_JONAH": {
@@ -3364,7 +3364,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_JONAH"
 	},
 	"ITEM_FROM_BLACKBELT_WAI": {
@@ -3374,7 +3374,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BLACKBELT_T_WAI"
 	},
 	"ITEM_FROM_SAILOR_KENNETH": {
@@ -3384,7 +3384,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAILOR_KENNETH"
 	},
 	"ITEM_FROM_TEACHER_SHIRLEY": {
@@ -3394,7 +3394,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_TEACHER_SHIRLEY"
 	},
 	"ITEM_FROM_SCHOOLBOY_NATE": {
@@ -3404,7 +3404,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_NATE"
 	},
 	"ITEM_FROM_SCHOOLBOY_RICKY": {
@@ -3414,7 +3414,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_RICKY"
 	},
 	"ITEM_FROM_COOLTRAINERM_SEAN": {
@@ -3424,7 +3424,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_SEAN"
 	},
 	"ITEM_FROM_COOLTRAINERF_CAROL": {
@@ -3434,7 +3434,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_CAROL"
 	},
 	"ITEM_FROM_POKEMANIAC_ETHAN": {
@@ -3444,7 +3444,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_ETHAN"
 	},
 	"ITEM_FROM_HIKER_NOLAND": {
@@ -3454,7 +3454,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_NOLAND"
 	},
 	"ITEM_FROM_GENTLEMAN_EDWARD": {
@@ -3464,7 +3464,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GENTLEMAN_EDWARD"
 	},
 	"ITEM_FROM_BURGLAR_COREY": {
@@ -3474,7 +3474,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BURGLAR_COREY"
 	},
 	"ITEM_FROM_POKEFANM_COLIN": {
@@ -3484,7 +3484,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_COLIN"
 	},
 	"ITEM_FROM_TWINS_MEG_AND_PEG": {
@@ -3494,7 +3494,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_TWINS_MEGANDPEG1"
 	},
 	"ITEM_FROM_PSYCHIC_RODNEY": {
@@ -3504,7 +3504,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_RODNEY"
 	},
 	"ITEM_FROM_POKEFANM_JEREMY": {
@@ -3514,7 +3514,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_JEREMY"
 	},
 	"ITEM_FROM_POKEFANF_GEORGIA": {
@@ -3524,7 +3524,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANF_GEORGIA"
 	},
 	"ITEM_FROM_SUPER_NERD_SHAWN": {
@@ -3534,7 +3534,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SUPER_NERD_SHAWN"
 	},
 	"ITEM_FROM_FIREBREATHER_LYLE": {
@@ -3544,7 +3544,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FIREBREATHER_LYLE"
 	},
 	"ITEM_FROM_BUG_CATCHER_KEN": {
@@ -3554,7 +3554,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BUG_CATCHER_KEN"
 	},
 	"ITEM_FROM_BEAUTY_CASSIE": {
@@ -3564,7 +3564,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BEAUTY_CASSIE"
 	},
 	"ITEM_FROM_GUITARIST_CLYDE": {
@@ -3574,7 +3574,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GUITARIST_CLYDE"
 	},
 	"ITEM_FROM_LASS_CARRIE": {
@@ -3584,7 +3584,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_LASS_CARRIE"
 	},
 	"ITEM_FROM_LASS_BRIDGET": {
@@ -3594,7 +3594,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_LASS_BRIDGET"
 	},
 	"ITEM_FROM_BEAUTY_VICTORIA": {
@@ -3604,7 +3604,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BEAUTY_VICTORIA"
 	},
 	"ITEM_FROM_BEAUTY_SAMANTHA": {
@@ -3614,7 +3614,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BEAUTY_SAMANTHA"
 	},
 	"ITEM_FROM_SUPER_NERD_ERIC": {
@@ -3624,7 +3624,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SUPER_NERD_ERIC"
 	},
 	"ITEM_FROM_SUPER_NERD_TERU": {
@@ -3634,7 +3634,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SUPER_NERD_TERU"
 	},
 	"ITEM_FROM_POKEMANIAC_ISSAC": {
@@ -3644,7 +3644,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_ISSAC"
 	},
 	"ITEM_FROM_POKEMANIAC_DONALD": {
@@ -3654,7 +3654,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_DONALD"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_11": {
@@ -3664,7 +3664,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_11"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_25": {
@@ -3674,7 +3674,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_25"
 	},
 	"ITEM_FROM_BURGLAR_DUNCAN": {
@@ -3684,7 +3684,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BURGLAR_DUNCAN"
 	},
 	"ITEM_FROM_BURGLAR_EDDIE": {
@@ -3694,7 +3694,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BURGLAR_EDDIE"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_13": {
@@ -3704,7 +3704,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_13"
 	},
 	"ITEM_FROM_ROCKET_GRUNTF_3": {
@@ -3714,7 +3714,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTF_GRUNTF_3"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_24": {
@@ -3724,7 +3724,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_24"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_14": {
@@ -3734,7 +3734,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_14"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_15": {
@@ -3744,7 +3744,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_15"
 	},
 	"ITEM_FROM_BUG_CATCHER_WAYNE": {
@@ -3754,7 +3754,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BUG_CATCHER_WAYNE"
 	},
 	"ITEM_FROM_FISHER_ANDRE": {
@@ -3764,7 +3764,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_ANDRE"
 	},
 	"ITEM_FROM_FISHER_RAYMOND": {
@@ -3774,7 +3774,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_RAYMOND"
 	},
 	"ITEM_FROM_COOLTRAINERM_AARON": {
@@ -3784,7 +3784,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_AARON"
 	},
 	"ITEM_FROM_COOLTRAINERF_LOIS": {
@@ -3794,7 +3794,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_LOIS"
 	},
 	"ITEM_FROM_SKIER_ROXANNE": {
@@ -3804,7 +3804,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SKIER_ROXANNE"
 	},
 	"ITEM_FROM_SKIER_CLARISSA": {
@@ -3814,7 +3814,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SKIER_CLARISSA"
 	},
 	"ITEM_FROM_BOARDER_RONALD": {
@@ -3824,7 +3824,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BOARDER_RONALD"
 	},
 	"ITEM_FROM_BOARDER_BRAD": {
@@ -3834,7 +3834,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BOARDER_BRAD"
 	},
 	"ITEM_FROM_BOARDER_DOUGLAS": {
@@ -3844,7 +3844,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BOARDER_DOUGLAS"
 	},
 	"ITEM_FROM_POKEMANIAC_MILLER": {
@@ -3854,7 +3854,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_MILLER"
 	},
 	"ITEM_FROM_SUPER_NERD_MARKUS": {
@@ -3864,7 +3864,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SUPER_NERD_MARKUS"
 	},
 	"ITEM_FROM_SUPER_NERD_HUGH": {
@@ -3874,7 +3874,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SUPER_NERD_HUGH"
 	},
 	"ITEM_FROM_SCHOOLBOY_JACK": {
@@ -3884,7 +3884,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_JACK1"
 	},
 	"ITEM_FROM_POKEFANM_WILLIAM": {
@@ -3894,7 +3894,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_WILLIAM"
 	},
 	"ITEM_FROM_POKEFANF_BEVERLY": {
@@ -3904,7 +3904,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANF_BEVERLY1"
 	},
 	"ITEM_FROM_LASS_KRISE": {
@@ -3914,7 +3914,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_LASS_KRISE"
 	},
 	"ITEM_FROM_GENTLEMAN_ALFRED": {
@@ -3924,7 +3924,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GENTLEMAN_ALFRED"
 	},
 	"ITEM_FROM_SAILOR_HUEY": {
@@ -3934,7 +3934,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAILOR_HUEY1"
 	},
 	"ITEM_FROM_BIRD_KEEPER_THEO": {
@@ -3944,7 +3944,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_THEO"
 	},
 	"ITEM_FROM_GENTLEMAN_PRESTON": {
@@ -3954,7 +3954,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GENTLEMAN_PRESTON"
 	},
 	"ITEM_FROM_SAILOR_TERRELL": {
@@ -3964,7 +3964,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAILOR_TERRELL"
 	},
 	"ITEM_FROM_LASS_CONNIE": {
@@ -3974,7 +3974,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_LASS_CONNIE1"
 	},
 	"ITEM_FROM_SAILOR_KENT": {
@@ -3984,7 +3984,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAILOR_KENT"
 	},
 	"ITEM_FROM_BIRD_KEEPER_DENIS": {
@@ -3994,7 +3994,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_DENIS"
 	},
 	"ITEM_FROM_SAILOR_ERNEST": {
@@ -4004,7 +4004,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAILOR_ERNEST"
 	},
 	"ITEM_FROM_CAMPER_JERRY": {
@@ -4014,7 +4014,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_CAMPER_JERRY"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_3": {
@@ -4024,7 +4024,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_3"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_4": {
@@ -4034,7 +4034,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_4"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_5": {
@@ -4044,7 +4044,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_5"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_6": {
@@ -4054,7 +4054,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_6"
 	},
 	"ITEM_FROM_ROCKET_GRUNTF_2": {
@@ -4064,7 +4064,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTF_GRUNTF_2"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_7": {
@@ -4074,7 +4074,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_7"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_8": {
@@ -4084,7 +4084,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_8"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_9": {
@@ -4094,7 +4094,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_9"
 	},
 	"ITEM_FROM_SCIENTIST_MARC": {
@@ -4104,7 +4104,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCIENTIST_MARC"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_10": {
@@ -4114,7 +4114,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_10"
 	},
 	"ITEM_FROM_ROCKET_EXECUTIVEM_2": {
@@ -4124,7 +4124,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_EXECUTIVEM_EXECUTIVEM_2"
 	},
 	"ITEM_FROM_ROCKET_GRUNTF_4": {
@@ -4134,7 +4134,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTF_GRUNTF_4"
 	},
 	"ITEM_FROM_SCIENTIST_RICH": {
@@ -4144,7 +4144,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCIENTIST_RICH"
 	},
 	"ITEM_FROM_ROCKET_EXECUTIVEF_1": {
@@ -4154,7 +4154,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_EXECUTIVEF_EXECUTIVEF_1"
 	},
 	"ITEM_FROM_SCHOOLBOY_DANNY": {
@@ -4164,7 +4164,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_DANNY"
 	},
 	"ITEM_FROM_COOLTRAINERF_QUINN": {
@@ -4174,7 +4174,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_QUINN"
 	},
 	"ITEM_FROM_HIKER_JIM": {
@@ -4184,7 +4184,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_JIM"
 	},
 	"ITEM_FROM_POKEFANM_ROBERT": {
@@ -4194,7 +4194,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_ROBERT"
 	},
 	"ITEM_FROM_YOUNGSTER_OWEN": {
@@ -4204,7 +4204,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_YOUNGSTER_OWEN"
 	},
 	"ITEM_FROM_YOUNGSTER_JASON": {
@@ -4214,7 +4214,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_YOUNGSTER_JASON"
 	},
 	"ITEM_FROM_PSYCHIC_HERMAN": {
@@ -4224,7 +4224,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_HERMAN"
 	},
 	"ITEM_FROM_PSYCHIC_FIDEL": {
@@ -4234,7 +4234,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_FIDEL"
 	},
 	"ITEM_FROM_FISHER_KYLE": {
@@ -4244,7 +4244,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_KYLE"
 	},
 	"ITEM_FROM_FISHER_MARTIN": {
@@ -4254,7 +4254,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_MARTIN"
 	},
 	"ITEM_FROM_FISHER_STEPHEN": {
@@ -4264,7 +4264,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_STEPHEN"
 	},
 	"ITEM_FROM_FISHER_BARNEY": {
@@ -4274,7 +4274,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_BARNEY"
 	},
 	"ITEM_FROM_POKEFANM_ALEX": {
@@ -4284,7 +4284,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_ALEX"
 	},
 	"ITEM_FROM_POKEFANM_JOSHUA": {
@@ -4294,7 +4294,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_JOSHUA"
 	},
 	"ITEM_FROM_BIRD_KEEPER_PERRY": {
@@ -4304,7 +4304,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_PERRY"
 	},
 	"ITEM_FROM_BIRD_KEEPER_BRET": {
@@ -4314,7 +4314,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_BRET"
 	},
 	"ITEM_FROM_HIKER_KENNY": {
@@ -4324,7 +4324,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_KENNY"
 	},
 	"ITEM_FROM_POKEFANM_CARTER": {
@@ -4334,7 +4334,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_CARTER"
 	},
 	"ITEM_FROM_BIRD_KEEPER_ROY": {
@@ -4344,7 +4344,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_ROY"
 	},
 	"ITEM_FROM_POKEFANM_TREVOR": {
@@ -4354,7 +4354,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_TREVOR"
 	},
 	"ITEM_FROM_TEACHER_COLETTE": {
@@ -4364,7 +4364,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_TEACHER_COLETTE"
 	},
 	"ITEM_FROM_TEACHER_HILLARY": {
@@ -4374,7 +4374,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_TEACHER_HILLARY"
 	},
 	"ITEM_FROM_SCHOOLBOY_KIP": {
@@ -4384,7 +4384,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_KIPP"
 	},
 	"ITEM_FROM_SCHOOLBOY_TOMMY": {
@@ -4394,7 +4394,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_TOMMY"
 	},
 	"ITEM_FROM_SCHOOLBOY_JOHNNY": {
@@ -4404,7 +4404,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_JOHNNY"
 	},
 	"ITEM_FROM_SCHOOLBOY_BILLY": {
@@ -4414,7 +4414,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_BILLY"
 	},
 	"ITEM_FROM_BIKER_CHARLES": {
@@ -4424,7 +4424,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIKER_CHARLES"
 	},
 	"ITEM_FROM_BIKER_RILEY": {
@@ -4434,7 +4434,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIKER_RILEY"
 	},
 	"ITEM_FROM_BIKER_JOEL": {
@@ -4444,7 +4444,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIKER_JOEL"
 	},
 	"ITEM_FROM_BIKER_GLENN": {
@@ -4454,7 +4454,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIKER_GLENN"
 	},
 	"ITEM_FROM_BIRD_KEEPER_BORIS": {
@@ -4464,7 +4464,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_BORIS"
 	},
 	"ITEM_FROM_BIRD_KEEPER_BOB": {
@@ -4474,7 +4474,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_BOB"
 	},
 	"ITEM_FROM_SWIMMERF_DAWN": {
@@ -4484,7 +4484,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_DAWN"
 	},
 	"ITEM_FROM_SWIMMERM_HAROLD": {
@@ -4494,7 +4494,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_HAROLD"
 	},
 	"ITEM_FROM_SWIMMERM_JEROME": {
@@ -4504,7 +4504,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_JEROME"
 	},
 	"ITEM_FROM_SWIMMERM_TUCKER": {
@@ -4514,7 +4514,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_TUCKER"
 	},
 	"ITEM_FROM_BUG_CATCHER_ROB": {
@@ -4524,7 +4524,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BUG_CATCHER_ROB"
 	},
 	"ITEM_FROM_BUG_CATCHER_ED": {
@@ -4534,7 +4534,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BUG_CATCHER_ED"
 	},
 	"ITEM_FROM_BUG_CATCHER_DOUG": {
@@ -4544,7 +4544,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BUG_CATCHER_DOUG"
 	},
 	"ITEM_FROM_SWIMMERF_NICOLE": {
@@ -4554,7 +4554,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_NICOLE"
 	},
 	"ITEM_FROM_SWIMMERF_LORI": {
@@ -4564,7 +4564,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_LORI"
 	},
 	"ITEM_FROM_SWIMMERM_CAMERON": {
@@ -4574,7 +4574,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_CAMERON"
 	},
 	"ITEM_FROM_SWIMMERM_SETH": {
@@ -4584,7 +4584,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_SETH"
 	},
 	"ITEM_FROM_SWIMMERF_NIKKI": {
@@ -4594,7 +4594,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_NIKKI"
 	},
 	"ITEM_FROM_FISHER_ARNOLD": {
@@ -4604,7 +4604,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_ARNOLD"
 	},
 	"ITEM_FROM_SCHOOLBOY_DUDLEY": {
@@ -4614,7 +4614,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_DUDLEY"
 	},
 	"ITEM_FROM_LASS_ELLEN": {
@@ -4624,7 +4624,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_LASS_ELLEN"
 	},
 	"ITEM_FROM_SCHOOLBOY_JOE": {
@@ -4634,7 +4634,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_JOE"
 	},
 	"ITEM_FROM_LASS_LAURA": {
@@ -4644,7 +4644,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_LASS_LAURA"
 	},
 	"ITEM_FROM_CAMPER_LLOYD": {
@@ -4654,7 +4654,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_CAMPER_LLOYD"
 	},
 	"ITEM_FROM_LASS_SHANNON": {
@@ -4664,7 +4664,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_LASS_SHANNON"
 	},
 	"ITEM_FROM_SUPER_NERD_PAT": {
@@ -4674,7 +4674,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SUPER_NERD_PAT"
 	},
 	"ITEM_FROM_COOLTRAINERM_JAKE": {
@@ -4684,7 +4684,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_JAKE"
 	},
 	"ITEM_FROM_COOLTRAINERM_GAVEN": {
@@ -4694,7 +4694,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_GAVEN3"
 	},
 	"ITEM_FROM_COOLTRAINERF_JOYCE": {
@@ -4704,7 +4704,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_JOYCE"
 	},
 	"ITEM_FROM_COOLTRAINERF_BETH": {
@@ -4714,7 +4714,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_BETH1"
 	},
 	"ITEM_FROM_PSYCHIC_RICHARD": {
@@ -4724,7 +4724,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_RICHARD"
 	},
 	"ITEM_FROM_FISHER_SCOTT": {
@@ -4734,7 +4734,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_SCOTT"
 	},
 	"ITEM_FROM_PSYCHIC_GILBERT": {
@@ -4744,7 +4744,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_GILBERT"
 	},
 	"ITEM_FROM_BIRD_KEEPER_JOSE2": {
@@ -4754,7 +4754,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_JOSE2"
 	},
 	"ITEM_FROM_COOLTRAINERM_BLAKE": {
@@ -4764,7 +4764,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_BLAKE"
 	},
 	"ITEM_FROM_COOLTRAINERM_BRIAN": {
@@ -4774,7 +4774,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_BRIAN"
 	},
 	"ITEM_FROM_COOLTRAINERF_REENA": {
@@ -4784,7 +4784,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_REENA1"
 	},
 	"ITEM_FROM_COOLTRAINERF_MEGAN": {
@@ -4794,7 +4794,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_MEGAN"
 	},
 	"ITEM_FROM_FIREBREATHER_OTIS": {
@@ -4804,7 +4804,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FIREBREATHER_OTIS"
 	},
 	"ITEM_FROM_YOUNGSTER_WARREN": {
@@ -4814,7 +4814,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_YOUNGSTER_WARREN"
 	},
 	"ITEM_FROM_YOUNGSTER_JIMMY": {
@@ -4824,7 +4824,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_YOUNGSTER_JIMMY"
 	},
 	"ITEM_FROM_FIREBREATHER_BURT": {
@@ -4834,7 +4834,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FIREBREATHER_BURT"
 	},
 	"ITEM_FROM_YOUNGSTER_JOEY": {
@@ -4844,7 +4844,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_YOUNGSTER_JOEY1"
 	},
 	"ITEM_FROM_YOUNGSTER_MIKEY": {
@@ -4854,7 +4854,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_YOUNGSTER_MIKEY"
 	},
 	"ITEM_FROM_BUG_CATCHER_DON": {
@@ -4864,7 +4864,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BUG_CATCHER_DON"
 	},
 	"ITEM_FROM_BUG_CATCHER_WADE": {
@@ -4874,7 +4874,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BUG_CATCHER_WADE1"
 	},
 	"ITEM_FROM_CAMPER_ROLAND": {
@@ -4884,7 +4884,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_CAMPER_ROLAND"
 	},
 	"ITEM_FROM_FISHER_JUSTIN": {
@@ -4894,7 +4894,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_JUSTIN"
 	},
 	"ITEM_FROM_FISHER_RALPH": {
@@ -4904,7 +4904,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_RALPH1"
 	},
 	"ITEM_FROM_FISHER_HENRY": {
@@ -4914,7 +4914,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_HENRY"
 	},
 	"ITEM_FROM_PICNICKER_LIZ": {
@@ -4924,7 +4924,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_LIZ1"
 	},
 	"ITEM_FROM_YOUNGSTER_ALBERT": {
@@ -4934,7 +4934,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_YOUNGSTER_ALBERT"
 	},
 	"ITEM_FROM_YOUNGSTER_GORDON": {
@@ -4944,7 +4944,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_YOUNGSTER_GORDON"
 	},
 	"ITEM_FROM_BIRD_KEEPER_PETER": {
@@ -4954,7 +4954,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_PETER"
 	},
 	"ITEM_FROM_HIKER_ANTHONY": {
@@ -4964,7 +4964,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_ANTHONY2"
 	},
 	"ITEM_FROM_CAMPER_TODD": {
@@ -4974,7 +4974,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_CAMPER_TODD1"
 	},
 	"ITEM_FROM_PICNICKER_GINA": {
@@ -4984,7 +4984,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_GINA1"
 	},
 	"ITEM_FROM_YOUNGSTER_SAMUEL": {
@@ -4994,7 +4994,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_YOUNGSTER_SAMUEL"
 	},
 	"ITEM_FROM_YOUNGSTER_IAN": {
@@ -5004,7 +5004,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_YOUNGSTER_IAN"
 	},
 	"ITEM_FROM_POKEFANM_BRANDON": {
@@ -5014,7 +5014,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_BRANDON"
 	},
 	"ITEM_FROM_COOLTRAINERF_IRENE": {
@@ -5024,7 +5024,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_IRENE"
 	},
 	"ITEM_FROM_COOLTRAINERF_JENN": {
@@ -5034,7 +5034,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_JENN"
 	},
 	"ITEM_FROM_COOLTRAINERF_KATE": {
@@ -5044,7 +5044,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_KATE"
 	},
 	"ITEM_FROM_BIRD_KEEPER_BRYAN": {
@@ -5054,7 +5054,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_BRYAN"
 	},
 	"ITEM_FROM_JUGGLER_IRWIN": {
@@ -5064,7 +5064,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_JUGGLER_IRWIN1"
 	},
 	"ITEM_FROM_CAMPER_IVAN": {
@@ -5074,7 +5074,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_CAMPER_IVAN"
 	},
 	"ITEM_FROM_CAMPER_ELLIOT": {
@@ -5084,7 +5084,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_CAMPER_ELLIOT"
 	},
 	"ITEM_FROM_PICNICKER_BROOKE": {
@@ -5094,7 +5094,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_BROOKE"
 	},
 	"ITEM_FROM_PICNICKER_KIM": {
@@ -5104,7 +5104,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_KIM"
 	},
 	"ITEM_FROM_BUG_CATCHER_ARNIE": {
@@ -5114,7 +5114,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BUG_CATCHER_ARNIE1"
 	},
 	"ITEM_FROM_FIREBREATHER_WALT": {
@@ -5124,7 +5124,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FIREBREATHER_WALT"
 	},
 	"ITEM_FROM_SCHOOLBOY_ALAN": {
@@ -5134,7 +5134,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_ALAN1"
 	},
 	"ITEM_FROM_PSYCHIC_MARK": {
@@ -5144,7 +5144,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_MARK"
 	},
 	"ITEM_FROM_TWINS_ANN_AND_ANNE": {
@@ -5154,7 +5154,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_TWINS_ANNANDANNE1"
 	},
 	"ITEM_FROM_PSYCHIC_GREG": {
@@ -5164,7 +5164,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_GREG"
 	},
 	"ITEM_FROM_BIRD_KEEPER_TOBY": {
@@ -5174,7 +5174,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_TOBY"
 	},
 	"ITEM_FROM_SAILOR_HARRY": {
@@ -5184,7 +5184,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAILOR_HARRY"
 	},
 	"ITEM_FROM_LASS_DANA": {
@@ -5194,7 +5194,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_LASS_DANA1"
 	},
 	"ITEM_FROM_SCHOOLBOY_CHAD": {
@@ -5204,7 +5204,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCHOOLBOY_CHAD1"
 	},
 	"ITEM_FROM_BEAUTY_VALERIE": {
@@ -5214,7 +5214,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BEAUTY_VALERIE"
 	},
 	"ITEM_FROM_BEAUTY_OLIVIA": {
@@ -5224,7 +5224,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BEAUTY_OLIVIA"
 	},
 	"ITEM_FROM_POKEFANM_DEREK": {
@@ -5234,7 +5234,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_DEREK1"
 	},
 	"ITEM_FROM_POKEFANF_RUTH": {
@@ -5244,7 +5244,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANF_RUTH"
 	},
 	"ITEM_FROM_SAILOR_EUGENE": {
@@ -5254,7 +5254,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAILOR_EUGENE"
 	},
 	"ITEM_FROM_PSYCHIC_NORMAN": {
@@ -5264,7 +5264,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_NORMAN"
 	},
 	"ITEM_FROM_BIRD_KEEPER_HANK": {
@@ -5274,7 +5274,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_HANK"
 	},
 	"ITEM_FROM_PICNICKER_HOPE": {
@@ -5284,7 +5284,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_HOPE"
 	},
 	"ITEM_FROM_PICNICKER_SHARON": {
@@ -5294,7 +5294,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_SHARON"
 	},
 	"ITEM_FROM_SWIMMERF_ELAINE": {
@@ -5304,7 +5304,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_ELAINE"
 	},
 	"ITEM_FROM_SWIMMERF_PAULA": {
@@ -5314,7 +5314,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_PAULA"
 	},
 	"ITEM_FROM_SWIMMERM_SIMON": {
@@ -5324,7 +5324,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_SIMON"
 	},
 	"ITEM_FROM_SWIMMERM_RANDALL": {
@@ -5334,7 +5334,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_RANDALL"
 	},
 	"ITEM_FROM_SWIMMERF_KAYLEE": {
@@ -5344,7 +5344,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_KAYLEE"
 	},
 	"ITEM_FROM_SWIMMERF_SUSIE": {
@@ -5354,7 +5354,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_SUSIE"
 	},
 	"ITEM_FROM_SWIMMERF_DENISE": {
@@ -5364,7 +5364,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_DENISE"
 	},
 	"ITEM_FROM_SWIMMERF_KARA": {
@@ -5374,7 +5374,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_KARA"
 	},
 	"ITEM_FROM_SWIMMERF_WENDY": {
@@ -5384,7 +5384,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERF_WENDY"
 	},
 	"ITEM_FROM_SWIMMERM_CHARLIE": {
@@ -5394,7 +5394,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_CHARLIE"
 	},
 	"ITEM_FROM_SWIMMERM_GEORGE": {
@@ -5404,7 +5404,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_GEORGE"
 	},
 	"ITEM_FROM_SWIMMERM_BERKE": {
@@ -5414,7 +5414,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_BERKE"
 	},
 	"ITEM_FROM_SWIMMERM_KIRK": {
@@ -5424,7 +5424,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_KIRK"
 	},
 	"ITEM_FROM_SWIMMERM_MATHEW": {
@@ -5434,7 +5434,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SWIMMERM_MATHEW"
 	},
 	"ITEM_FROM_FISHER_TULLY": {
@@ -5444,7 +5444,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_TULLY1"
 	},
 	"ITEM_FROM_POKEMANIAC_SHANE": {
@@ -5454,7 +5454,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_SHANE"
 	},
 	"ITEM_FROM_HIKER_BENJAMIN": {
@@ -5464,7 +5464,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_BENJAMIN"
 	},
 	"ITEM_FROM_CAMPER_SPENCER": {
@@ -5474,7 +5474,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_CAMPER_SPENCER"
 	},
 	"ITEM_FROM_POKEMANIAC_BEN": {
@@ -5484,7 +5484,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_BEN"
 	},
 	"ITEM_FROM_POKEMANIAC_BRENT": {
@@ -5494,7 +5494,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_BRENT1"
 	},
 	"ITEM_FROM_POKEMANIAC_RON": {
@@ -5504,7 +5504,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_RON"
 	},
 	"ITEM_FROM_FISHER_MARVIN": {
@@ -5514,7 +5514,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_MARVIN"
 	},
 	"ITEM_FROM_PICNICKER_TIFFANY": {
@@ -5524,7 +5524,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_TIFFANY3"
 	},
 	"ITEM_FROM_BIRD_KEEPER_VANCE": {
@@ -5534,7 +5534,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_VANCE1"
 	},
 	"ITEM_FROM_PSYCHIC_PHIL": {
@@ -5544,7 +5544,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_PHIL"
 	},
 	"ITEM_FROM_FISHER_WILTON": {
@@ -5554,7 +5554,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_WILTON1"
 	},
 	"ITEM_FROM_FISHER_EDGAR": {
@@ -5564,7 +5564,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FISHER_EDGAR"
 	},
 	"ITEM_FROM_COOLTRAINERF_CYBIL": {
@@ -5574,7 +5574,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_CYBIL"
 	},
 	"ITEM_FROM_POKEMANIAC_ZACH": {
@@ -5584,7 +5584,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_ZACH"
 	},
 	"ITEM_FROM_COOLTRAINERM_ALLEN": {
@@ -5594,7 +5594,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_ALLEN"
 	},
 	"ITEM_FROM_BLACKBELT_KENJI": {
@@ -5604,7 +5604,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BLACKBELT_T_KENJI3"
 	},
 	"ITEM_FROM_HIKER_ERIK": {
@@ -5614,7 +5614,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_ERIK"
 	},
 	"ITEM_FROM_HIKER_MICHAEL": {
@@ -5624,7 +5624,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_MICHAEL"
 	},
 	"ITEM_FROM_HIKER_PARRY": {
@@ -5634,7 +5634,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_PARRY3"
 	},
 	"ITEM_FROM_HIKER_TIMOTHY": {
@@ -5644,7 +5644,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_TIMOTHY"
 	},
 	"ITEM_FROM_COOLTRAINERM_RYAN": {
@@ -5654,7 +5654,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_RYAN"
 	},
 	"ITEM_FROM_COOLTRAINERF_KELLY": {
@@ -5664,7 +5664,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_KELLY"
 	},
 	"ITEM_FROM_CAMPER_TED": {
@@ -5674,7 +5674,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_CAMPER_TED"
 	},
 	"ITEM_FROM_PICNICKER_ERIN": {
@@ -5684,7 +5684,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_ERIN1"
 	},
 	"ITEM_FROM_HIKER_BAILEY": {
@@ -5694,7 +5694,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_BAILEY"
 	},
 	"ITEM_FROM_POKEFANM_REX": {
@@ -5704,7 +5704,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_REX"
 	},
 	"ITEM_FROM_POKEFANM_ALLAN": {
@@ -5714,7 +5714,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEFANM_ALLAN"
 	},
 	"ITEM_FROM_BIKER_DWAYNE": {
@@ -5724,7 +5724,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIKER_DWAYNE"
 	},
 	"ITEM_FROM_BIKER_HARRIS": {
@@ -5734,7 +5734,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIKER_HARRIS"
 	},
 	"ITEM_FROM_BIKER_ZEKE": {
@@ -5744,7 +5744,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIKER_ZEKE"
 	},
 	"ITEM_FROM_SUPER_NERD_SAM": {
@@ -5754,7 +5754,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SUPER_NERD_SAM"
 	},
 	"ITEM_FROM_SUPER_NERD_TOM": {
@@ -5764,7 +5764,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SUPER_NERD_TOM"
 	},
 	"ITEM_FROM_CAMPER_DEAN": {
@@ -5774,7 +5774,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_CAMPER_DEAN"
 	},
 	"ITEM_FROM_PICNICKER_HEIDI": {
@@ -5784,7 +5784,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_HEIDI"
 	},
 	"ITEM_FROM_CAMPER_SID": {
@@ -5794,7 +5794,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_CAMPER_SID"
 	},
 	"ITEM_FROM_PICNICKER_EDNA": {
@@ -5804,7 +5804,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PICNICKER_EDNA"
 	},
 	"ITEM_FROM_HIKER_TIM": {
@@ -5814,7 +5814,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_TIM"
 	},
 	"ITEM_FROM_HIKER_SIDNEY": {
@@ -5824,7 +5824,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_SIDNEY"
 	},
 	"ITEM_FROM_PSYCHIC_NATHAN": {
@@ -5834,7 +5834,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_NATHAN"
 	},
 	"ITEM_FROM_SUPER_NERD_STAN": {
@@ -5844,7 +5844,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SUPER_NERD_STAN"
 	},
 	"ITEM_FROM_MEDIUM_REBECCA": {
@@ -5854,7 +5854,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_MEDIUM_REBECCA"
 	},
 	"ITEM_FROM_PSYCHIC_FRANKLIN": {
@@ -5864,7 +5864,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_FRANKLIN"
 	},
 	"ITEM_FROM_MEDIUM_DORIS": {
@@ -5874,7 +5874,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_MEDIUM_DORIS"
 	},
 	"ITEM_FROM_PSYCHIC_JARED": {
@@ -5884,7 +5884,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_PSYCHIC_T_JARED"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_29": {
@@ -5894,7 +5894,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_29"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_1": {
@@ -5904,7 +5904,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_1"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_2": {
@@ -5914,7 +5914,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_2"
 	},
 	"ITEM_FROM_ROCKET_GRUNTF_1": {
@@ -5924,7 +5924,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTF_GRUNTF_1"
 	},
 	"ITEM_FROM_SAGE_CHOW": {
@@ -5934,7 +5934,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAGE_CHOW"
 	},
 	"ITEM_FROM_SAGE_NICO": {
@@ -5944,7 +5944,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAGE_NICO"
 	},
 	"ITEM_FROM_SAGE_EDMOND": {
@@ -5954,7 +5954,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAGE_EDMOND"
 	},
 	"ITEM_FROM_SAGE_JIN": {
@@ -5964,7 +5964,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAGE_JIN"
 	},
 	"ITEM_FROM_SAGE_TROY": {
@@ -5974,7 +5974,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAGE_TROY"
 	},
 	"ITEM_FROM_SAGE_NEAL": {
@@ -5984,7 +5984,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAGE_NEAL"
 	},
 	"ITEM_FROM_SCIENTIST_JED": {
@@ -5994,7 +5994,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCIENTIST_JED"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_16": {
@@ -6004,7 +6004,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_16"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_17": {
@@ -6014,7 +6014,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_17"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_18": {
@@ -6024,7 +6024,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_18"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_19": {
@@ -6034,7 +6034,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_19"
 	},
 	"ITEM_FROM_ROCKET_GRUNTF_5": {
@@ -6044,7 +6044,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTF_GRUNTF_5"
 	},
 	"ITEM_FROM_ROCKET_GRUNTM_28": {
@@ -6054,7 +6054,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GRUNTM_GRUNTM_28"
 	},
 	"ITEM_FROM_SCIENTIST_ROSS": {
@@ -6064,7 +6064,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCIENTIST_ROSS"
 	},
 	"ITEM_FROM_SCIENTIST_MITCH": {
@@ -6074,7 +6074,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SCIENTIST_MITCH"
 	},
 	"ITEM_FROM_POKEMANIAC_LARRY": {
@@ -6084,7 +6084,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_LARRY"
 	},
 	"ITEM_FROM_HIKER_RUSSELL": {
@@ -6094,7 +6094,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_RUSSELL"
 	},
 	"ITEM_FROM_HIKER_DANIEL": {
@@ -6104,7 +6104,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_DANIEL"
 	},
 	"ITEM_FROM_FIREBREATHER_BILL": {
@@ -6114,7 +6114,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FIREBREATHER_BILL"
 	},
 	"ITEM_FROM_FIREBREATHER_RAY": {
@@ -6124,7 +6124,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_FIREBREATHER_RAY"
 	},
 	"ITEM_FROM_POKEMANIAC_ANDREW": {
@@ -6134,7 +6134,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_ANDREW"
 	},
 	"ITEM_FROM_POKEMANIAC_CALVIN": {
@@ -6144,7 +6144,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_POKEMANIAC_CALVIN"
 	},
 	"ITEM_FROM_HIKER_PHILLIP": {
@@ -6154,7 +6154,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_PHILLIP"
 	},
 	"ITEM_FROM_HIKER_LEONARD": {
@@ -6164,7 +6164,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_HIKER_LEONARD"
 	},
 	"ITEM_FROM_COOLTRAINERM_NICK": {
@@ -6174,7 +6174,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERM_NICK"
 	},
 	"ITEM_FROM_COOLTRAINERF_GWEN": {
@@ -6184,7 +6184,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_GWEN"
 	},
 	"ITEM_FROM_COOLTRAINERF_EMMA": {
@@ -6194,7 +6194,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_COOLTRAINERF_EMMA"
 	},
 	"ITEM_FROM_GENTLEMAN_GREGORY": {
@@ -6204,7 +6204,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GENTLEMAN_GREGORY"
 	},
 	"ITEM_FROM_GUITARIST_VINCENT": {
@@ -6214,7 +6214,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_GUITARIST_VINCENT"
 	},
 	"ITEM_FROM_JUGGLER_HORTON": {
@@ -6224,7 +6224,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_JUGGLER_HORTON"
 	},
 	"ITEM_FROM_BIRD_KEEPER_ROD": {
@@ -6234,7 +6234,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_ROD"
 	},
 	"ITEM_FROM_BIRD_KEEPER_ABE": {
@@ -6244,7 +6244,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_BIRD_KEEPER_ABE"
 	},
 	"ITEM_FROM_SAGE_GAKU": {
@@ -6254,7 +6254,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAGE_GAKU"
 	},
 	"ITEM_FROM_SAGE_MASA": {
@@ -6264,7 +6264,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAGE_MASA"
 	},
 	"ITEM_FROM_SAGE_KOJI": {
@@ -6274,7 +6274,7 @@
 		"tags": [
 			"Trainersanity"
 		],
-		"default_item": "NO_ITEM",
+		"default_item": "NO_ITEM_PKMN_CRSTL",
 		"script": "AP_Trainer_SAGE_KOJI"
 	},
 	"FRUITTREE_ROUTE_29": {
@@ -6282,7 +6282,7 @@
 		"flag": "FRUITTREE_ROUTE_29",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BERRY",
+		"default_item": "BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_29"
 	},
 	"FRUITTREE_ROUTE_30_1": {
@@ -6290,7 +6290,7 @@
 		"flag": "FRUITTREE_ROUTE_30_1",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BERRY",
+		"default_item": "BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_30_1"
 	},
 	"FRUITTREE_ROUTE_38": {
@@ -6298,7 +6298,7 @@
 		"flag": "FRUITTREE_ROUTE_38",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BERRY",
+		"default_item": "BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_38"
 	},
 	"FRUITTREE_ROUTE_46_1": {
@@ -6306,7 +6306,7 @@
 		"flag": "FRUITTREE_ROUTE_46_1",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BERRY",
+		"default_item": "BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_46_1"
 	},
 	"FRUITTREE_ROUTE_30_2": {
@@ -6314,7 +6314,7 @@
 		"flag": "FRUITTREE_ROUTE_30_2",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "PSNCUREBERRY",
+		"default_item": "PSNCUREBERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_30_2"
 	},
 	"FRUITTREE_ROUTE_33": {
@@ -6322,7 +6322,7 @@
 		"flag": "FRUITTREE_ROUTE_33",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "PSNCUREBERRY",
+		"default_item": "PSNCUREBERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_33"
 	},
 	"FRUITTREE_ROUTE_31": {
@@ -6330,7 +6330,7 @@
 		"flag": "FRUITTREE_ROUTE_31",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BITTER_BERRY",
+		"default_item": "BITTER_BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_31"
 	},
 	"FRUITTREE_ROUTE_43": {
@@ -6338,7 +6338,7 @@
 		"flag": "FRUITTREE_ROUTE_43",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BITTER_BERRY",
+		"default_item": "BITTER_BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_43"
 	},
 	"FRUITTREE_VIOLET_CITY": {
@@ -6346,7 +6346,7 @@
 		"flag": "FRUITTREE_VIOLET_CITY",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "PRZCUREBERRY",
+		"default_item": "PRZCUREBERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_VIOLET_CITY"
 	},
 	"FRUITTREE_ROUTE_46_2": {
@@ -6354,7 +6354,7 @@
 		"flag": "FRUITTREE_ROUTE_46_2",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "PRZCUREBERRY",
+		"default_item": "PRZCUREBERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_46_2"
 	},
 	"FRUITTREE_ROUTE_35": {
@@ -6362,7 +6362,7 @@
 		"flag": "FRUITTREE_ROUTE_35",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "MYSTERYBERRY",
+		"default_item": "MYSTERYBERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_35"
 	},
 	"FRUITTREE_ROUTE_45": {
@@ -6370,7 +6370,7 @@
 		"flag": "FRUITTREE_ROUTE_45",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "MYSTERYBERRY",
+		"default_item": "MYSTERYBERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_45"
 	},
 	"FRUITTREE_ROUTE_36": {
@@ -6378,7 +6378,7 @@
 		"flag": "FRUITTREE_ROUTE_36",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "ICE_BERRY",
+		"default_item": "ICE_BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_36"
 	},
 	"FRUITTREE_ROUTE_26": {
@@ -6386,7 +6386,7 @@
 		"flag": "FRUITTREE_ROUTE_26",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "ICE_BERRY",
+		"default_item": "ICE_BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_26"
 	},
 	"FRUITTREE_ROUTE_39": {
@@ -6394,7 +6394,7 @@
 		"flag": "FRUITTREE_ROUTE_39",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "MINT_BERRY",
+		"default_item": "MINT_BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_39"
 	},
 	"FRUITTREE_ROUTE_44": {
@@ -6402,7 +6402,7 @@
 		"flag": "FRUITTREE_ROUTE_44",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BURNT_BERRY",
+		"default_item": "BURNT_BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_44"
 	},
 	"FRUITTREE_ROUTE_37_1": {
@@ -6410,7 +6410,7 @@
 		"flag": "FRUITTREE_ROUTE_37_1",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "RED_APRICORN",
+		"default_item": "RED_APRICORN_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_37_1"
 	},
 	"FRUITTREE_ROUTE_37_2": {
@@ -6418,7 +6418,7 @@
 		"flag": "FRUITTREE_ROUTE_37_2",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BLU_APRICORN",
+		"default_item": "BLU_APRICORN_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_37_2"
 	},
 	"FRUITTREE_ROUTE_37_3": {
@@ -6426,7 +6426,7 @@
 		"flag": "FRUITTREE_ROUTE_37_3",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BLK_APRICORN",
+		"default_item": "BLK_APRICORN_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_37_3"
 	},
 	"FRUITTREE_AZALEA_TOWN": {
@@ -6434,7 +6434,7 @@
 		"flag": "FRUITTREE_AZALEA_TOWN",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "WHT_APRICORN",
+		"default_item": "WHT_APRICORN_PKMN_CRSTL",
 		"script": "AP_FruitTree_AZALEA_TOWN"
 	},
 	"FRUITTREE_ROUTE_42_1": {
@@ -6442,7 +6442,7 @@
 		"flag": "FRUITTREE_ROUTE_42_1",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "PNK_APRICORN",
+		"default_item": "PNK_APRICORN_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_42_1"
 	},
 	"FRUITTREE_ROUTE_42_2": {
@@ -6450,7 +6450,7 @@
 		"flag": "FRUITTREE_ROUTE_42_2",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "GRN_APRICORN",
+		"default_item": "GRN_APRICORN_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_42_2"
 	},
 	"FRUITTREE_ROUTE_42_3": {
@@ -6458,7 +6458,7 @@
 		"flag": "FRUITTREE_ROUTE_42_3",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "YLW_APRICORN",
+		"default_item": "YLW_APRICORN_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_42_3"
 	},
 	"FRUITTREE_ROUTE_11": {
@@ -6466,7 +6466,7 @@
 		"flag": "FRUITTREE_ROUTE_11",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BERRY",
+		"default_item": "BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_11"
 	},
 	"FRUITTREE_ROUTE_2": {
@@ -6474,7 +6474,7 @@
 		"flag": "FRUITTREE_ROUTE_2",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "PSNCUREBERRY",
+		"default_item": "PSNCUREBERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_2"
 	},
 	"FRUITTREE_ROUTE_1": {
@@ -6482,7 +6482,7 @@
 		"flag": "FRUITTREE_ROUTE_1",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BITTER_BERRY",
+		"default_item": "BITTER_BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_1"
 	},
 	"FRUITTREE_ROUTE_8": {
@@ -6490,7 +6490,7 @@
 		"flag": "FRUITTREE_ROUTE_8",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "PRZCUREBERRY",
+		"default_item": "PRZCUREBERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_ROUTE_8"
 	},
 	"FRUITTREE_PEWTER_CITY_1": {
@@ -6498,7 +6498,7 @@
 		"flag": "FRUITTREE_PEWTER_CITY_1",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "ICE_BERRY",
+		"default_item": "ICE_BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_PEWTER_CITY_1"
 	},
 	"FRUITTREE_PEWTER_CITY_2": {
@@ -6506,7 +6506,7 @@
 		"flag": "FRUITTREE_PEWTER_CITY_2",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "MINT_BERRY",
+		"default_item": "MINT_BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_PEWTER_CITY_2"
 	},
 	"FRUITTREE_FUCHSIA_CITY": {
@@ -6514,7 +6514,7 @@
 		"flag": "FRUITTREE_FUCHSIA_CITY",
 		"type": "berrytree",
 		"tags": ["BerryTree"],
-		"default_item": "BURNT_BERRY",
+		"default_item": "BURNT_BERRY_PKMN_CRSTL",
 		"script": "AP_FruitTree_FUCHSIA_CITY"
 	}
 }

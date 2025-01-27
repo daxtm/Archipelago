@@ -1,4 +1,7 @@
-from typing import TYPE_CHECKING
+
+                     
+                     
+                     from typing import TYPE_CHECKING
 from .data import data
 from .options import FreeFlyLocation
 
@@ -48,3 +51,4 @@ def convert_to_ingame_text(text: str):
         "9": 0xff
     }
     return [charmap[char] if char in charmap else charmap["?"] for char in text]
+
